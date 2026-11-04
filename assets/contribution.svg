@@ -1,37 +1,1963 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="525" viewBox="0 0 1200 525" role="img" aria-label="CodMash isometric development city visual">
-    <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0c1019"/>
-        <stop offset="60%" stop-color="#171d2c"/>
-        <stop offset="100%" stop-color="#0e1420"/>
-      </linearGradient>
-      <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#ffd178"/>
-        <stop offset="58%" stop-color="#ff8a2b"/>
-        <stop offset="100%" stop-color="#d85113"/>
-      </linearGradient>
-      <linearGradient id="coat" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#ffab4f"/>
-        <stop offset="55%" stop-color="#ee7222"/>
-        <stop offset="100%" stop-color="#b33b14"/>
-      </linearGradient>
-      <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#5dd6ff"/>
-        <stop offset="100%" stop-color="#105ca9"/>
-      </linearGradient>
-      <radialGradient id="halo">
-        <stop offset="0%" stop-color="#ff8a2b" stop-opacity=".28"/>
-        <stop offset="100%" stop-color="#ff8a2b" stop-opacity="0"/>
-      </radialGradient>
-      <radialGradient id="cyanHalo">
-        <stop offset="0%" stop-color="#37b8f7" stop-opacity=".16"/>
-        <stop offset="100%" stop-color="#37b8f7" stop-opacity="0"/>
-      </radialGradient>
-      <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
-        <circle cx="2" cy="2" r="1" fill="#9da9bd" opacity=".13"/>
-      </pattern>
-      <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="16"/>
-      </filter>
-    </defs>
-    <rect x="1" y="1" width="1198" height="523" rx="24" fill="url(#bg)" stroke="#3b4355" stroke-width="2" opacity="1"/><ellipse cx="888.0" cy="262.5" rx="360.0" ry="446.25" fill="url(#halo)"/><line x1="60" y1="0" x2="60" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="140" y1="0" x2="140" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="220" y1="0" x2="220" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="300" y1="0" x2="300" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="380" y1="0" x2="380" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="460" y1="0" x2="460" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="540" y1="0" x2="540" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="620" y1="0" x2="620" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="700" y1="0" x2="700" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="780" y1="0" x2="780" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="860" y1="0" x2="860" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="940" y1="0" x2="940" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="1020" y1="0" x2="1020" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="1100" y1="0" x2="1100" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="1180" y1="0" x2="1180" y2="525" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="0" y1="40" x2="1200" y2="40" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="120" x2="1200" y2="120" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="200" x2="1200" y2="200" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="280" x2="1200" y2="280" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="360" x2="1200" y2="360" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="440" x2="1200" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="520" x2="1200" y2="520" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><text x="66" y="71" fill="#f7f8fc" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="800" text-anchor="start" opacity="1" letter-spacing="0">ENGINEERING ACTIVITY  /  A CITY OF IDEAS</text><text x="66" y="99" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" text-anchor="start" opacity="1" letter-spacing="0">A visual story of the things we build. GitHub&#x27;s live activity appears below the README.</text><path d="M80 245 L573 125 L1024 324 L532 452Z" fill="#0c1a32" stroke="#1c58a4" stroke-width="2"/><path d="M106.0 242.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M126.0 237.1l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M146.0 232.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M166.0 227.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M186.0 222.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M206.0 217.5l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M226.0 212.6l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M246.0 207.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M266.0 202.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M286.0 197.9l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M306.0 193.0l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M326.0 188.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M346.0 183.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M366.0 178.3l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M386.0 173.4l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M406.0 168.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M426.0 163.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M446.0 158.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M466.0 153.8l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M486.0 148.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M506.0 144.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M526.0 139.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M546.0 134.2l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M124.0 250.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M144.0 246.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M164.0 241.1l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M184.0 236.2l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M204.0 231.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M224.0 226.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M244.0 221.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M264.0 216.6l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M284.0 211.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M304.0 206.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M324.0 201.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M344.0 197.0l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M364.0 192.1l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M384.0 187.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M404.0 182.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M424.0 177.4l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M444.0 172.5l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M464.0 167.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M484.0 162.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M504.0 157.8l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M524.0 152.9l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M544.0 148.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M564.0 143.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M142.0 259.8l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M162.0 254.9l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M182.0 250.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M202.0 245.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M222.0 240.2l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M242.0 235.3l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M262.0 230.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M282.0 225.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M302.0 220.6l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M322.0 215.7l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M342.0 210.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M362.0 205.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M382.0 201.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M402.0 196.1l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M422.0 191.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M442.0 186.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M462.0 181.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M482.0 176.5l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M502.0 171.6l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M522.0 166.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M542.0 161.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M562.0 156.9l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M582.0 152.0l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M160.0 268.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M180.0 263.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M200.0 258.9l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M220.0 254.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M240.0 249.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M260.0 244.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M280.0 239.3l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M300.0 234.4l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M320.0 229.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M340.0 224.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M360.0 219.7l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M380.0 214.8l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M400.0 209.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M420.0 205.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M440.0 200.1l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M460.0 195.2l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M480.0 190.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M500.0 185.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M520.0 180.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M540.0 175.6l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M560.0 170.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M580.0 165.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M600.0 160.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M178.0 277.6l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M198.0 272.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M218.0 267.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M238.0 262.9l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M258.0 258.0l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M278.0 253.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M298.0 248.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M318.0 243.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M338.0 238.4l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M358.0 233.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M378.0 228.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M398.0 223.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M418.0 218.8l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M418.0 218.8l18 -4.4v-32.8l-18 4.4Z" fill="#1598d8" opacity=".9"/><path d="M418.0 186.0l18 -4.4 16 8 -18 4.4Z" fill="#3ce2fa" opacity=".94"/><path d="M438.0 213.9l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M458.0 209.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M478.0 204.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M498.0 199.2l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M498.0 199.2l18 -4.4v-34.5l-18 4.4Z" fill="#1598d8" opacity=".9"/><path d="M498.0 164.7l18 -4.4 16 8 -18 4.4Z" fill="#3ce2fa" opacity=".94"/><path d="M518.0 194.3l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M538.0 189.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M558.0 184.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M578.0 179.6l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M598.0 174.7l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M618.0 169.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M196.0 286.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M216.0 281.6l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M236.0 276.7l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M256.0 271.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M276.0 266.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M296.0 262.0l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M316.0 257.1l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M336.0 252.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M356.0 247.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M376.0 242.4l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M396.0 237.5l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M416.0 232.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M436.0 227.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M456.0 222.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M476.0 217.9l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M476.0 217.9l18 -4.4v-31.1l-18 4.4Z" fill="#1598d8" opacity=".9"/><path d="M476.0 186.8l18 -4.4 16 8 -18 4.4Z" fill="#3ce2fa" opacity=".94"/><path d="M496.0 213.0l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M516.0 208.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M536.0 203.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M556.0 198.3l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M576.0 193.4l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M596.0 188.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M616.0 183.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M636.0 178.7l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M214.0 295.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M234.0 290.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M254.0 285.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M274.0 280.7l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M294.0 275.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M314.0 270.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M334.0 266.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M354.0 261.1l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M374.0 256.2l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M394.0 251.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M414.0 246.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M434.0 241.5l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M434.0 241.5l18 -4.4v-34.5l-18 4.4Z" fill="#1598d8" opacity=".9"/><path d="M434.0 207.0l18 -4.4 16 8 -18 4.4Z" fill="#3ce2fa" opacity=".94"/><path d="M454.0 236.6l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M474.0 231.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M494.0 226.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M514.0 221.9l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M514.0 221.9l18 -4.4v-36.2l-18 4.4Z" fill="#1598d8" opacity=".9"/><path d="M514.0 185.7l18 -4.4 16 8 -18 4.4Z" fill="#3ce2fa" opacity=".94"/><path d="M534.0 217.0l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M534.0 217.0l18 -4.4v-29.4l-18 4.4Z" fill="#1598d8" opacity=".9"/><path d="M534.0 187.6l18 -4.4 16 8 -18 4.4Z" fill="#3ce2fa" opacity=".94"/><path d="M554.0 212.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M574.0 207.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M594.0 202.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M614.0 197.4l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M634.0 192.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M654.0 187.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M232.0 304.3l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M252.0 299.4l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M272.0 294.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M292.0 289.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M312.0 284.7l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M332.0 279.8l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M352.0 274.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M372.0 270.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M392.0 265.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M412.0 260.2l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M432.0 255.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M452.0 250.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M472.0 245.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M492.0 240.6l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M492.0 240.6l18 -4.4v-32.8l-18 4.4Z" fill="#1598d8" opacity=".9"/><path d="M492.0 207.8l18 -4.4 16 8 -18 4.4Z" fill="#3ce2fa" opacity=".94"/><path d="M512.0 235.7l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M532.0 230.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M552.0 225.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M572.0 221.0l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M572.0 221.0l18 -4.4v-34.5l-18 4.4Z" fill="#1598d8" opacity=".9"/><path d="M572.0 186.5l18 -4.4 16 8 -18 4.4Z" fill="#3ce2fa" opacity=".94"/><path d="M592.0 216.1l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M612.0 211.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M632.0 206.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M652.0 201.4l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M672.0 196.5l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M250.0 313.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M270.0 308.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M290.0 303.4l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M310.0 298.5l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M330.0 293.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M350.0 288.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M370.0 283.8l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M390.0 278.9l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M410.0 274.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M430.0 269.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M450.0 264.2l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M470.0 259.3l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M470.0 259.3l18 -4.4v-29.4l-18 4.4Z" fill="#1598d8" opacity=".9"/><path d="M470.0 229.9l18 -4.4 16 8 -18 4.4Z" fill="#3ce2fa" opacity=".94"/><path d="M490.0 254.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M510.0 249.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M530.0 244.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M550.0 239.7l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M550.0 239.7l18 -4.4v-31.1l-18 4.4Z" fill="#1598d8" opacity=".9"/><path d="M550.0 208.6l18 -4.4 16 8 -18 4.4Z" fill="#3ce2fa" opacity=".94"/><path d="M570.0 234.8l18 -4.4 16 8 -18 4.4Z" fill="#279bd7" stroke="#112845" stroke-width="1"/><path d="M590.0 229.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M610.0 225.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M630.0 220.1l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M650.0 215.2l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M670.0 210.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M690.0 205.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M268.0 322.1l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M288.0 317.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M308.0 312.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M328.0 307.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M348.0 302.5l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M368.0 297.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M388.0 292.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M408.0 287.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M428.0 282.9l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M448.0 278.0l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M468.0 273.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M488.0 268.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M508.0 263.3l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M528.0 258.4l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M548.0 253.5l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M568.0 248.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M588.0 243.7l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M608.0 238.8l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M628.0 233.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M648.0 229.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M668.0 224.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M688.0 219.2l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M708.0 214.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M286.0 331.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M306.0 326.1l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M326.0 321.2l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M346.0 316.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M366.0 311.4l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M386.0 306.5l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M406.0 301.6l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M426.0 296.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M446.0 291.8l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M466.0 286.9l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M486.0 282.0l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M506.0 277.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M526.0 272.2l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M546.0 267.3l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M566.0 262.4l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M586.0 257.5l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M606.0 252.6l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M626.0 247.7l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M646.0 242.8l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M666.0 237.9l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><path d="M686.0 233.0l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M706.0 228.1l18 -4.4 16 8 -18 4.4Z" fill="#1b4980" stroke="#112845" stroke-width="1"/><path d="M726.0 223.2l18 -4.4 16 8 -18 4.4Z" fill="#2165b2" stroke="#112845" stroke-width="1"/><circle cx="196" cy="398" r="68" stroke="#27384c" stroke-width="31" fill="none"/><circle cx="196" cy="398" r="68" stroke="#ff8a2b" stroke-width="31" fill="none" stroke-dasharray="95 427" stroke-dashoffset="0" transform="rotate(-90 196 398)"/><circle cx="196" cy="398" r="68" stroke="#39c5ff" stroke-width="31" fill="none" stroke-dasharray="78 427" stroke-dashoffset="-104" transform="rotate(-90 196 398)"/><circle cx="196" cy="398" r="68" stroke="#714cb1" stroke-width="31" fill="none" stroke-dasharray="75 427" stroke-dashoffset="-192" transform="rotate(-90 196 398)"/><text x="196" y="404" fill="#f7f8fc" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="800" text-anchor="middle" opacity="1" letter-spacing="0">BUILD</text><text x="313" y="385" fill="#ff8a2b" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">WEB / PRODUCT</text><text x="313" y="412" fill="#39c5ff" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">DESIGN / UX</text><text x="313" y="439" fill="#a88afa" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">AI / AUTOMATION</text><rect x="920" y="52" width="218" height="183" rx="15" fill="#131d2d" stroke="#2c4262" stroke-width="1" opacity="1"/><text x="944" y="82" fill="#f7f8fc" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="800" text-anchor="start" opacity="1" letter-spacing="0">HOW WE WORK</text><circle cx="951" cy="106" r="6" fill="#ff8a2b"/><text x="970" y="111" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">Ideate</text><circle cx="951" cy="135" r="6" fill="#39c5ff"/><text x="970" y="140" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">Prototype</text><circle cx="951" cy="164" r="6" fill="#76e2b9"/><text x="970" y="169" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">Build</text><circle cx="951" cy="193" r="6" fill="#a88afa"/><text x="970" y="198" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">Launch</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Codmash contribution village">
+<title>Codmash contribution village</title><desc>Each building represents a real day of public GitHub contributions. Taller buildings represent more contributions.</desc>
+<defs><style>@font-face{font-family:'JBM';src:url(data:font/woff2;base64,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) format('woff2')}
+@font-face{font-family:'JBMB';src:url(data:font/woff2;base64,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) format('woff2')}
+@font-face{font-family:'SG';src:url(data:font/woff2;base64,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) format('woff2')}
+@font-face{font-family:'SGM';src:url(data:font/woff2;base64,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) format('woff2')}
+text{font-family:JBM,monospace}.sg{font-family:SG,Arial,sans-serif;font-weight:700}
+@keyframes beacon{0%,100%{opacity:.35}50%{opacity:1}}.beacon{animation:beacon 3s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><linearGradient id="sky" x2="1" y2="1"><stop stop-color="#0b101b"/><stop offset="1" stop-color="#181c30"/></linearGradient>
+<linearGradient id="tower" x2="0" y2="1"><stop stop-color="#ffb52e"/><stop offset="1" stop-color="#a84416"/></linearGradient></defs>
+<rect width="1280" height="640" rx="24" fill="url(#sky)" stroke="#2b3249"/>
+
+<circle cx="59" cy="50" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="226" cy="111" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="393" cy="172" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="560" cy="233" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="727" cy="294" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="894" cy="355" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="1061" cy="416" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="1228" cy="67" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="155" cy="128" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="322" cy="189" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="489" cy="250" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="656" cy="311" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="823" cy="372" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="990" cy="23" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="1157" cy="84" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="84" cy="145" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="251" cy="206" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="418" cy="267" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="585" cy="328" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="752" cy="389" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="919" cy="40" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="1086" cy="101" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="1253" cy="162" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="180" cy="223" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="347" cy="284" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="514" cy="345" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="681" cy="406" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="848" cy="57" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="1015" cy="118" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="1182" cy="179" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="109" cy="240" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="276" cy="301" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="443" cy="362" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="610" cy="423" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="777" cy="74" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="944" cy="135" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="1111" cy="196" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="38" cy="257" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="205" cy="318" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="372" cy="379" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="539" cy="30" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="706" cy="91" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="873" cy="152" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="1040" cy="213" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="1207" cy="274" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="134" cy="335" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="301" cy="396" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="468" cy="47" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="635" cy="108" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="802" cy="169" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="969" cy="230" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="1136" cy="291" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="63" cy="352" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="230" cy="413" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="397" cy="64" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="564" cy="125" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="731" cy="186" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="898" cy="247" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="1065" cy="308" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="1232" cy="369" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="159" cy="20" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="326" cy="81" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="493" cy="142" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="660" cy="203" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="827" cy="264" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="994" cy="325" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="1161" cy="386" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="88" cy="37" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="255" cy="98" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="422" cy="159" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="589" cy="220" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="756" cy="281" r="1.2" fill="#abc2ef" opacity=".25"/>
+<circle cx="923" cy="342" r="0.6" fill="#abc2ef" opacity=".25"/>
+<circle cx="1090" cy="403" r="0.8999999999999999" fill="#abc2ef" opacity=".25"/>
+<circle cx="1257" cy="54" r="1.2" fill="#abc2ef" opacity=".25"/>
+<text class="jb" x="52" y="55" font-size="12" fill="#ff7a1a" letter-spacing="2">// OUR CONTRIBUTION VILLAGE</text>
+<text class="sg" x="52" y="108" font-size="32" fill="#eef1f7" >Every commit builds something.</text>
+<text class="jb" x="52" y="142" font-size="14" fill="#8b93a7" >32 contributions · 368 days · @codmashdev</text>
+<text class="jb" x="1228" y="55" font-size="11" fill="#8b93a7" text-anchor="end">UPDATED 2026-11-04</text>
+<g><title>2025-11-02: 0 contributions</title>
+<path d="M160 223.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M168 227.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M168 216.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-03: 0 contributions</title>
+<path d="M145 232.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M153 236.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M153 225.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-04: 0 contributions</title>
+<path d="M130 241.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M138 245.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M138 234.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-05: 0 contributions</title>
+<path d="M115 250.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M123 254.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M123 243.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-06: 0 contributions</title>
+<path d="M100 259.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M108 263.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M108 252.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-07: 0 contributions</title>
+<path d="M85 268.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M93 272.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M93 261.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-08: 0 contributions</title>
+<path d="M70 277.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M78 281.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M78 270.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-09: 0 contributions</title>
+<path d="M178 227.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M186 231.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M186 220.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-10: 0 contributions</title>
+<path d="M163 236.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M171 240.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M171 229.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-11: 0 contributions</title>
+<path d="M148 245.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M156 249.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M156 238.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-12: 0 contributions</title>
+<path d="M133 254.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M141 258.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M141 247.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-13: 0 contributions</title>
+<path d="M118 263.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M126 267.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M126 256.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-14: 0 contributions</title>
+<path d="M103 272.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M111 276.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M111 265.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-15: 0 contributions</title>
+<path d="M88 281.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M96 285.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M96 274.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-16: 0 contributions</title>
+<path d="M196 232.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M204 236.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M204 225.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-17: 0 contributions</title>
+<path d="M181 241.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M189 245.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M189 234.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-18: 0 contributions</title>
+<path d="M166 250.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M174 254.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M174 243.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-19: 0 contributions</title>
+<path d="M151 259.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M159 263.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M159 252.60000000000002l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-20: 0 contributions</title>
+<path d="M136 268.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M144 272.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M144 261.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-21: 0 contributions</title>
+<path d="M121 277.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M129 281.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M129 270.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-22: 0 contributions</title>
+<path d="M106 286.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M114 290.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M114 279.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-23: 0 contributions</title>
+<path d="M214 237.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M222 241.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M222 230.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-24: 0 contributions</title>
+<path d="M199 246.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M207 250.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M207 239.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-25: 0 contributions</title>
+<path d="M184 255.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M192 259.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M192 248.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-26: 0 contributions</title>
+<path d="M169 264.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M177 268.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M177 257.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-27: 0 contributions</title>
+<path d="M154 273.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M162 277.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M162 266.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-28: 0 contributions</title>
+<path d="M139 282.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M147 286.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M147 275.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-29: 0 contributions</title>
+<path d="M124 291.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M132 295.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M132 284.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-11-30: 0 contributions</title>
+<path d="M232 242.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M240 246.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M240 235.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-01: 0 contributions</title>
+<path d="M217 251.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M225 255.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M225 244.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-02: 0 contributions</title>
+<path d="M202 260.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M210 264.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M210 253.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-03: 0 contributions</title>
+<path d="M187 269.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M195 273.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M195 262.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-04: 0 contributions</title>
+<path d="M172 278.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M180 282.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M180 271.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-05: 0 contributions</title>
+<path d="M157 287.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M165 291.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M165 280.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-06: 0 contributions</title>
+<path d="M142 296.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M150 300.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M150 289.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-07: 0 contributions</title>
+<path d="M250 247.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M258 251.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M258 240.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-08: 0 contributions</title>
+<path d="M235 256.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M243 260.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M243 249.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-09: 0 contributions</title>
+<path d="M220 265.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M228 269.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M228 258.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-10: 0 contributions</title>
+<path d="M205 274.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M213 278.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M213 267.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-11: 0 contributions</title>
+<path d="M190 283.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M198 287.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M198 276.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-12: 0 contributions</title>
+<path d="M175 292.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M183 296.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M183 285.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-13: 0 contributions</title>
+<path d="M160 301.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M168 305.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M168 294.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-14: 0 contributions</title>
+<path d="M268 251.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M276 255.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M276 244.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-15: 0 contributions</title>
+<path d="M253 260.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M261 264.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M261 253.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-16: 0 contributions</title>
+<path d="M238 269.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M246 273.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M246 262.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-17: 0 contributions</title>
+<path d="M223 278.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M231 282.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M231 271.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-18: 0 contributions</title>
+<path d="M208 287.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M216 291.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M216 280.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-19: 0 contributions</title>
+<path d="M193 296.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M201 300.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M201 289.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-20: 0 contributions</title>
+<path d="M178 305.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M186 309.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M186 298.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-21: 0 contributions</title>
+<path d="M286 256.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M294 260.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M294 249.60000000000002l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-22: 0 contributions</title>
+<path d="M271 265.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M279 269.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M279 258.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-23: 0 contributions</title>
+<path d="M256 274.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M264 278.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M264 267.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-24: 0 contributions</title>
+<path d="M241 283.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M249 287.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M249 276.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-25: 0 contributions</title>
+<path d="M226 292.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M234 296.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M234 285.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-26: 0 contributions</title>
+<path d="M211 301.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M219 305.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M219 294.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-27: 0 contributions</title>
+<path d="M196 310.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M204 314.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M204 303.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-28: 0 contributions</title>
+<path d="M304 261.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M312 265.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M312 254.39999999999998l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-29: 0 contributions</title>
+<path d="M289 270.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M297 274.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M297 263.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-30: 0 contributions</title>
+<path d="M274 279.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M282 283.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M282 272.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2025-12-31: 0 contributions</title>
+<path d="M259 288.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M267 292.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M267 281.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-01: 0 contributions</title>
+<path d="M244 297.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M252 301.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M252 290.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-02: 0 contributions</title>
+<path d="M229 306.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M237 310.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M237 299.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-03: 0 contributions</title>
+<path d="M214 315.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M222 319.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M222 308.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-04: 0 contributions</title>
+<path d="M322 266.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M330 270.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M330 259.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-05: 0 contributions</title>
+<path d="M307 275.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M315 279.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M315 268.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-06: 0 contributions</title>
+<path d="M292 284.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M300 288.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M300 277.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-07: 0 contributions</title>
+<path d="M277 293.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M285 297.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M285 286.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-08: 0 contributions</title>
+<path d="M262 302.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M270 306.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M270 295.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-09: 0 contributions</title>
+<path d="M247 311.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M255 315.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M255 304.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-10: 0 contributions</title>
+<path d="M232 320.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M240 324.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M240 313.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-11: 0 contributions</title>
+<path d="M340 271.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M348 275.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M348 264.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-12: 0 contributions</title>
+<path d="M325 280.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M333 284.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M333 273.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-13: 0 contributions</title>
+<path d="M310 289.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M318 293.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M318 282.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-14: 0 contributions</title>
+<path d="M295 298.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M303 302.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M303 291.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-15: 0 contributions</title>
+<path d="M280 307.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M288 311.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M288 300.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-16: 0 contributions</title>
+<path d="M265 316.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M273 320.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M273 309.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-17: 0 contributions</title>
+<path d="M250 325.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M258 329.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M258 318.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-18: 0 contributions</title>
+<path d="M358 275.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M366 279.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M366 268.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-19: 0 contributions</title>
+<path d="M343 284.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M351 288.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M351 277.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-20: 0 contributions</title>
+<path d="M328 293.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M336 297.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M336 286.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-21: 0 contributions</title>
+<path d="M313 302.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M321 306.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M321 295.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-22: 0 contributions</title>
+<path d="M298 311.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M306 315.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M306 304.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-23: 0 contributions</title>
+<path d="M283 320.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M291 324.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M291 313.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-24: 0 contributions</title>
+<path d="M268 329.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M276 333.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M276 322.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-25: 0 contributions</title>
+<path d="M376 280.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M384 284.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M384 273.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-26: 0 contributions</title>
+<path d="M361 289.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M369 293.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M369 282.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-27: 0 contributions</title>
+<path d="M346 298.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M354 302.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M354 291.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-28: 0 contributions</title>
+<path d="M331 307.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M339 311.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M339 300.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-29: 0 contributions</title>
+<path d="M316 316.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M324 320.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M324 309.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-30: 0 contributions</title>
+<path d="M301 325.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M309 329.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M309 318.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-01-31: 0 contributions</title>
+<path d="M286 334.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M294 338.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M294 327.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-01: 0 contributions</title>
+<path d="M394 285.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M402 289.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M402 278.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-02: 0 contributions</title>
+<path d="M379 294.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M387 298.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M387 287.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-03: 0 contributions</title>
+<path d="M364 303.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M372 307.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M372 296.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-04: 0 contributions</title>
+<path d="M349 312.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M357 316.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M357 305.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-05: 0 contributions</title>
+<path d="M334 321.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M342 325.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M342 314.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-06: 0 contributions</title>
+<path d="M319 330.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M327 334.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M327 323.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-07: 0 contributions</title>
+<path d="M304 339.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M312 343.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M312 332.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-08: 0 contributions</title>
+<path d="M412 290.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M420 294.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M420 283.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-09: 0 contributions</title>
+<path d="M397 299.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M405 303.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M405 292.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-10: 0 contributions</title>
+<path d="M382 308.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M390 312.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M390 301.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-11: 0 contributions</title>
+<path d="M367 317.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M375 321.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M375 310.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-12: 0 contributions</title>
+<path d="M352 326.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M360 330.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M360 319.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-13: 0 contributions</title>
+<path d="M337 335.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M345 339.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M345 328.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-14: 0 contributions</title>
+<path d="M322 344.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M330 348.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M330 337.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-15: 0 contributions</title>
+<path d="M430 295.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M438 299.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M438 288.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-16: 0 contributions</title>
+<path d="M415 304.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M423 308.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M423 297.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-17: 0 contributions</title>
+<path d="M400 313.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M408 317.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M408 306.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-18: 0 contributions</title>
+<path d="M385 322.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M393 326.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M393 315.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-19: 0 contributions</title>
+<path d="M370 331.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M378 335.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M378 324.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-20: 0 contributions</title>
+<path d="M355 340.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M363 344.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M363 333.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-21: 0 contributions</title>
+<path d="M340 349.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M348 353.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M348 342.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-22: 0 contributions</title>
+<path d="M448 299.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M456 303.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M456 292.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-23: 0 contributions</title>
+<path d="M433 308.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M441 312.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M441 301.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-24: 0 contributions</title>
+<path d="M418 317.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M426 321.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M426 310.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-25: 0 contributions</title>
+<path d="M403 326.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M411 330.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M411 319.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-26: 0 contributions</title>
+<path d="M388 335.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M396 339.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M396 328.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-27: 0 contributions</title>
+<path d="M373 344.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M381 348.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M381 337.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-02-28: 0 contributions</title>
+<path d="M358 353.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M366 357.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M366 346.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-01: 0 contributions</title>
+<path d="M466 304.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M474 308.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M474 297.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-02: 0 contributions</title>
+<path d="M451 313.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M459 317.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M459 306.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-03: 0 contributions</title>
+<path d="M436 322.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M444 326.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M444 315.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-04: 0 contributions</title>
+<path d="M421 331.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M429 335.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M429 324.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-05: 0 contributions</title>
+<path d="M406 340.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M414 344.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M414 333.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-06: 0 contributions</title>
+<path d="M391 349.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M399 353.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M399 342.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-07: 0 contributions</title>
+<path d="M376 358.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M384 362.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M384 351.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-08: 0 contributions</title>
+<path d="M484 309.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M492 313.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M492 302.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-09: 0 contributions</title>
+<path d="M469 318.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M477 322.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M477 311.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-10: 0 contributions</title>
+<path d="M454 327.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M462 331.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M462 320.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-11: 0 contributions</title>
+<path d="M439 336.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M447 340.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M447 329.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-12: 0 contributions</title>
+<path d="M424 345.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M432 349.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M432 338.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-13: 0 contributions</title>
+<path d="M409 354.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M417 358.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M417 347.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-14: 0 contributions</title>
+<path d="M394 363.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M402 367.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M402 356.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-15: 0 contributions</title>
+<path d="M502 314.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M510 318.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M510 307.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-16: 0 contributions</title>
+<path d="M487 323.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M495 327.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M495 316.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-17: 0 contributions</title>
+<path d="M472 332.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M480 336.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M480 325.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-18: 0 contributions</title>
+<path d="M457 341.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M465 345.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M465 334.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-19: 0 contributions</title>
+<path d="M442 350.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M450 354.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M450 343.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-20: 0 contributions</title>
+<path d="M427 359.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M435 363.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M435 352.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-21: 0 contributions</title>
+<path d="M412 368.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M420 372.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M420 361.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-22: 0 contributions</title>
+<path d="M520 319.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M528 323.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M528 312.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-23: 1 contributions</title>
+<path d="M505 328.0l8 4v-36.0l-8 -4Z" fill="#8e451d"/>
+<path d="M513 332.0l8 -4v-36.0l-8 4Z" fill="url(#tower)"/>
+<path d="M513 288.0l8 4 -8 4 -8 -4Z" fill="#ffb52e"/>
+<path d="M515 310.0l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M515 318.0l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<circle class="beacon" cx="513" cy="285.0" r="2" fill="#ffb52e" style="animation-delay:0.35s"/>
+</g>
+<g><title>2026-03-24: 0 contributions</title>
+<path d="M490 337.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M498 341.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M498 330.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-25: 0 contributions</title>
+<path d="M475 346.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M483 350.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M483 339.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-26: 0 contributions</title>
+<path d="M460 355.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M468 359.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M468 348.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-27: 0 contributions</title>
+<path d="M445 364.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M453 368.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M453 357.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-28: 0 contributions</title>
+<path d="M430 373.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M438 377.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M438 366.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-29: 0 contributions</title>
+<path d="M538 323.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M546 327.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M546 316.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-30: 0 contributions</title>
+<path d="M523 332.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M531 336.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M531 325.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-03-31: 0 contributions</title>
+<path d="M508 341.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M516 345.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M516 334.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-01: 0 contributions</title>
+<path d="M493 350.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M501 354.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M501 343.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-02: 0 contributions</title>
+<path d="M478 359.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M486 363.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M486 352.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-03: 0 contributions</title>
+<path d="M463 368.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M471 372.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M471 361.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-04: 0 contributions</title>
+<path d="M448 377.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M456 381.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M456 370.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-05: 0 contributions</title>
+<path d="M556 328.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M564 332.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M564 321.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-06: 0 contributions</title>
+<path d="M541 337.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M549 341.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M549 330.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-07: 0 contributions</title>
+<path d="M526 346.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M534 350.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M534 339.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-08: 0 contributions</title>
+<path d="M511 355.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M519 359.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M519 348.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-09: 0 contributions</title>
+<path d="M496 364.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M504 368.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M504 357.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-10: 0 contributions</title>
+<path d="M481 373.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M489 377.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M489 366.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-11: 0 contributions</title>
+<path d="M466 382.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M474 386.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M474 375.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-12: 0 contributions</title>
+<path d="M574 333.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M582 337.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M582 326.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-13: 0 contributions</title>
+<path d="M559 342.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M567 346.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M567 335.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-14: 0 contributions</title>
+<path d="M544 351.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M552 355.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M552 344.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-15: 0 contributions</title>
+<path d="M529 360.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M537 364.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M537 353.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-16: 0 contributions</title>
+<path d="M514 369.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M522 373.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M522 362.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-17: 0 contributions</title>
+<path d="M499 378.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M507 382.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M507 371.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-18: 0 contributions</title>
+<path d="M484 387.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M492 391.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M492 380.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-19: 0 contributions</title>
+<path d="M592 338.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M600 342.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M600 331.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-20: 0 contributions</title>
+<path d="M577 347.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M585 351.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M585 340.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-21: 0 contributions</title>
+<path d="M562 356.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M570 360.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M570 349.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-22: 0 contributions</title>
+<path d="M547 365.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M555 369.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M555 358.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-23: 0 contributions</title>
+<path d="M532 374.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M540 378.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M540 367.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-24: 0 contributions</title>
+<path d="M517 383.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M525 387.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M525 376.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-25: 0 contributions</title>
+<path d="M502 392.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M510 396.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M510 385.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-26: 0 contributions</title>
+<path d="M610 343.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M618 347.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M618 336.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-27: 0 contributions</title>
+<path d="M595 352.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M603 356.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M603 345.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-28: 0 contributions</title>
+<path d="M580 361.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M588 365.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M588 354.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-29: 0 contributions</title>
+<path d="M565 370.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M573 374.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M573 363.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-04-30: 0 contributions</title>
+<path d="M550 379.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M558 383.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M558 372.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-01: 0 contributions</title>
+<path d="M535 388.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M543 392.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M543 381.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-02: 0 contributions</title>
+<path d="M520 397.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M528 401.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M528 390.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-03: 0 contributions</title>
+<path d="M628 347.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M636 351.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M636 340.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-04: 0 contributions</title>
+<path d="M613 356.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M621 360.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M621 349.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-05: 0 contributions</title>
+<path d="M598 365.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M606 369.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M606 358.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-06: 0 contributions</title>
+<path d="M583 374.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M591 378.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M591 367.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-07: 0 contributions</title>
+<path d="M568 383.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M576 387.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M576 376.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-08: 0 contributions</title>
+<path d="M553 392.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M561 396.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M561 385.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-09: 0 contributions</title>
+<path d="M538 401.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M546 405.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M546 394.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-10: 0 contributions</title>
+<path d="M646 352.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M654 356.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M654 345.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-11: 0 contributions</title>
+<path d="M631 361.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M639 365.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M639 354.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-12: 0 contributions</title>
+<path d="M616 370.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M624 374.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M624 363.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-13: 0 contributions</title>
+<path d="M601 379.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M609 383.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M609 372.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-14: 0 contributions</title>
+<path d="M586 388.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M594 392.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M594 381.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-15: 0 contributions</title>
+<path d="M571 397.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M579 401.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M579 390.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-16: 0 contributions</title>
+<path d="M556 406.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M564 410.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M564 399.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-17: 0 contributions</title>
+<path d="M664 357.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M672 361.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M672 350.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-18: 0 contributions</title>
+<path d="M649 366.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M657 370.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M657 359.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-19: 0 contributions</title>
+<path d="M634 375.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M642 379.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M642 368.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-20: 0 contributions</title>
+<path d="M619 384.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M627 388.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M627 377.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-21: 0 contributions</title>
+<path d="M604 393.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M612 397.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M612 386.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-22: 0 contributions</title>
+<path d="M589 402.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M597 406.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M597 395.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-23: 0 contributions</title>
+<path d="M574 411.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M582 415.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M582 404.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-24: 0 contributions</title>
+<path d="M682 362.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M690 366.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M690 355.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-25: 0 contributions</title>
+<path d="M667 371.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M675 375.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M675 364.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-26: 0 contributions</title>
+<path d="M652 380.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M660 384.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M660 373.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-27: 0 contributions</title>
+<path d="M637 389.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M645 393.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M645 382.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-28: 0 contributions</title>
+<path d="M622 398.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M630 402.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M630 391.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-29: 0 contributions</title>
+<path d="M607 407.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M615 411.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M615 400.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-30: 0 contributions</title>
+<path d="M592 416.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M600 420.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M600 409.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-05-31: 0 contributions</title>
+<path d="M700 367.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M708 371.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M708 360.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-01: 0 contributions</title>
+<path d="M685 376.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M693 380.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M693 369.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-02: 0 contributions</title>
+<path d="M670 385.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M678 389.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M678 378.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-03: 0 contributions</title>
+<path d="M655 394.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M663 398.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M663 387.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-04: 0 contributions</title>
+<path d="M640 403.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M648 407.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M648 396.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-05: 0 contributions</title>
+<path d="M625 412.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M633 416.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M633 405.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-06: 0 contributions</title>
+<path d="M610 421.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M618 425.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M618 414.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-07: 0 contributions</title>
+<path d="M718 371.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M726 375.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M726 364.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-08: 0 contributions</title>
+<path d="M703 380.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M711 384.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M711 373.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-09: 0 contributions</title>
+<path d="M688 389.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M696 393.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M696 382.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-10: 0 contributions</title>
+<path d="M673 398.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M681 402.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M681 391.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-11: 0 contributions</title>
+<path d="M658 407.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M666 411.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M666 400.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-12: 0 contributions</title>
+<path d="M643 416.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M651 420.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M651 409.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-13: 0 contributions</title>
+<path d="M628 425.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M636 429.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M636 418.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-14: 0 contributions</title>
+<path d="M736 376.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M744 380.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M744 369.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-15: 0 contributions</title>
+<path d="M721 385.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M729 389.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M729 378.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-16: 0 contributions</title>
+<path d="M706 394.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M714 398.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M714 387.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-17: 0 contributions</title>
+<path d="M691 403.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M699 407.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M699 396.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-18: 0 contributions</title>
+<path d="M676 412.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M684 416.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M684 405.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-19: 2 contributions</title>
+<path d="M661 421.6l8 4v-50.039100017307746l-8 -4Z" fill="#8e451d"/>
+<path d="M669 425.6l8 -4v-50.039100017307746l-8 4Z" fill="url(#tower)"/>
+<path d="M669 367.56089998269226l8 4 -8 4 -8 -4Z" fill="#ff7a1a"/>
+<path d="M671 389.56089998269226l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M671 397.56089998269226l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M671 405.56089998269226l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<circle class="beacon" cx="669" cy="364.56089998269226" r="2" fill="#ff7a1a" style="animation-delay:1.75s"/>
+</g>
+<g><title>2026-06-20: 0 contributions</title>
+<path d="M646 430.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M654 434.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M654 423.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-21: 0 contributions</title>
+<path d="M754 381.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M762 385.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M762 374.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-22: 0 contributions</title>
+<path d="M739 390.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M747 394.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M747 383.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-23: 0 contributions</title>
+<path d="M724 399.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M732 403.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M732 392.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-24: 0 contributions</title>
+<path d="M709 408.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M717 412.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M717 401.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-25: 0 contributions</title>
+<path d="M694 417.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M702 421.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M702 410.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-26: 0 contributions</title>
+<path d="M679 426.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M687 430.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M687 419.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-27: 0 contributions</title>
+<path d="M664 435.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M672 439.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M672 428.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-28: 0 contributions</title>
+<path d="M772 386.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M780 390.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M780 379.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-29: 0 contributions</title>
+<path d="M757 395.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M765 399.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M765 388.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-06-30: 0 contributions</title>
+<path d="M742 404.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M750 408.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M750 397.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-01: 0 contributions</title>
+<path d="M727 413.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M735 417.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M735 406.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-02: 0 contributions</title>
+<path d="M712 422.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M720 426.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M720 415.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-03: 0 contributions</title>
+<path d="M697 431.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M705 435.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M705 424.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-04: 0 contributions</title>
+<path d="M682 440.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M690 444.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M690 433.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-05: 0 contributions</title>
+<path d="M790 391.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M798 395.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M798 384.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-06: 0 contributions</title>
+<path d="M775 400.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M783 404.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M783 393.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-07: 0 contributions</title>
+<path d="M760 409.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M768 413.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M768 402.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-08: 0 contributions</title>
+<path d="M745 418.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M753 422.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M753 411.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-09: 0 contributions</title>
+<path d="M730 427.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M738 431.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M738 420.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-10: 0 contributions</title>
+<path d="M715 436.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M723 440.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M723 429.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-11: 0 contributions</title>
+<path d="M700 445.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M708 449.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M708 438.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-12: 0 contributions</title>
+<path d="M808 395.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M816 399.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M816 388.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-13: 0 contributions</title>
+<path d="M793 404.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M801 408.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M801 397.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-14: 0 contributions</title>
+<path d="M778 413.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M786 417.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M786 406.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-15: 0 contributions</title>
+<path d="M763 422.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M771 426.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M771 415.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-16: 0 contributions</title>
+<path d="M748 431.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M756 435.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M756 424.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-17: 0 contributions</title>
+<path d="M733 440.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M741 444.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M741 433.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-18: 0 contributions</title>
+<path d="M718 449.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M726 453.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M726 442.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-19: 0 contributions</title>
+<path d="M826 400.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M834 404.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M834 393.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-20: 0 contributions</title>
+<path d="M811 409.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M819 413.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M819 402.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-21: 0 contributions</title>
+<path d="M796 418.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M804 422.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M804 411.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-22: 0 contributions</title>
+<path d="M781 427.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M789 431.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M789 420.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-23: 0 contributions</title>
+<path d="M766 436.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M774 440.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M774 429.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-24: 0 contributions</title>
+<path d="M751 445.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M759 449.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M759 438.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-25: 0 contributions</title>
+<path d="M736 454.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M744 458.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M744 447.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-26: 0 contributions</title>
+<path d="M844 405.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M852 409.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M852 398.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-27: 0 contributions</title>
+<path d="M829 414.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M837 418.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M837 407.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-28: 0 contributions</title>
+<path d="M814 423.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M822 427.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M822 416.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-29: 0 contributions</title>
+<path d="M799 432.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M807 436.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M807 425.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-30: 0 contributions</title>
+<path d="M784 441.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M792 445.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M792 434.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-07-31: 0 contributions</title>
+<path d="M769 450.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M777 454.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M777 443.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-01: 0 contributions</title>
+<path d="M754 459.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M762 463.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M762 452.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-02: 0 contributions</title>
+<path d="M862 410.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M870 414.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M870 403.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-03: 0 contributions</title>
+<path d="M847 419.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M855 423.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M855 412.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-04: 2 contributions</title>
+<path d="M832 428.2l8 4v-50.039100017307746l-8 -4Z" fill="#8e451d"/>
+<path d="M840 432.2l8 -4v-50.039100017307746l-8 4Z" fill="url(#tower)"/>
+<path d="M840 374.16089998269223l8 4 -8 4 -8 -4Z" fill="#ff7a1a"/>
+<path d="M842 396.16089998269223l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M842 404.16089998269223l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M842 412.16089998269223l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<circle class="beacon" cx="840" cy="371.16089998269223" r="2" fill="#ff7a1a" style="animation-delay:0.7s"/>
+</g>
+<g><title>2026-08-05: 0 contributions</title>
+<path d="M817 437.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M825 441.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M825 430.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-06: 0 contributions</title>
+<path d="M802 446.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M810 450.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M810 439.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-07: 0 contributions</title>
+<path d="M787 455.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M795 459.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M795 448.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-08: 0 contributions</title>
+<path d="M772 464.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M780 468.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M780 457.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-09: 0 contributions</title>
+<path d="M880 415.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M888 419.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M888 408.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-10: 0 contributions</title>
+<path d="M865 424.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M873 428.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M873 417.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-11: 0 contributions</title>
+<path d="M850 433.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M858 437.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M858 426.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-12: 0 contributions</title>
+<path d="M835 442.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M843 446.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M843 435.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-13: 0 contributions</title>
+<path d="M820 451.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M828 455.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M828 444.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-14: 0 contributions</title>
+<path d="M805 460.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M813 464.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M813 453.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-15: 0 contributions</title>
+<path d="M790 469.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M798 473.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M798 462.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-16: 0 contributions</title>
+<path d="M898 419.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M906 423.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M906 412.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-17: 0 contributions</title>
+<path d="M883 428.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M891 432.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M891 421.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-18: 0 contributions</title>
+<path d="M868 437.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M876 441.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M876 430.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-19: 0 contributions</title>
+<path d="M853 446.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M861 450.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M861 439.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-20: 0 contributions</title>
+<path d="M838 455.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M846 459.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M846 448.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-21: 0 contributions</title>
+<path d="M823 464.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M831 468.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M831 457.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-22: 0 contributions</title>
+<path d="M808 473.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M816 477.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M816 466.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-23: 0 contributions</title>
+<path d="M916 424.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M924 428.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M924 417.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-24: 0 contributions</title>
+<path d="M901 433.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M909 437.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M909 426.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-25: 0 contributions</title>
+<path d="M886 442.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M894 446.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M894 435.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-26: 0 contributions</title>
+<path d="M871 451.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M879 455.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M879 444.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-27: 0 contributions</title>
+<path d="M856 460.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M864 464.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M864 453.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-28: 0 contributions</title>
+<path d="M841 469.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M849 473.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M849 462.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-29: 0 contributions</title>
+<path d="M826 478.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M834 482.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M834 471.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-30: 0 contributions</title>
+<path d="M934 429.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M942 433.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M942 422.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-08-31: 0 contributions</title>
+<path d="M919 438.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M927 442.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M927 431.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-01: 0 contributions</title>
+<path d="M904 447.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M912 451.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M912 440.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-02: 0 contributions</title>
+<path d="M889 456.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M897 460.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M897 449.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-03: 0 contributions</title>
+<path d="M874 465.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M882 469.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M882 458.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-04: 0 contributions</title>
+<path d="M859 474.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M867 478.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M867 467.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-05: 0 contributions</title>
+<path d="M844 483.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M852 487.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M852 476.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-06: 0 contributions</title>
+<path d="M952 434.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M960 438.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M960 427.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-07: 0 contributions</title>
+<path d="M937 443.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M945 447.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M945 436.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-08: 0 contributions</title>
+<path d="M922 452.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M930 456.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M930 445.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-09: 0 contributions</title>
+<path d="M907 461.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M915 465.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M915 454.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-10: 0 contributions</title>
+<path d="M892 470.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M900 474.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M900 463.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-11: 0 contributions</title>
+<path d="M877 479.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M885 483.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M885 472.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-12: 0 contributions</title>
+<path d="M862 488.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M870 492.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M870 481.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-13: 0 contributions</title>
+<path d="M970 439.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M978 443.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M978 432.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-14: 0 contributions</title>
+<path d="M955 448.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M963 452.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M963 441.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-15: 0 contributions</title>
+<path d="M940 457.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M948 461.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M948 450.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-16: 0 contributions</title>
+<path d="M925 466.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M933 470.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M933 459.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-17: 23 contributions</title>
+<path d="M910 475.0l8 4v-122.03910001730775l-8 -4Z" fill="#8e451d"/>
+<path d="M918 479.0l8 -4v-122.03910001730775l-8 4Z" fill="url(#tower)"/>
+<path d="M918 348.96089998269224l8 4 -8 4 -8 -4Z" fill="#2fd48a"/>
+<path d="M920 370.96089998269224l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M920 378.96089998269224l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M920 386.96089998269224l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M920 394.96089998269224l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M920 402.96089998269224l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M920 410.96089998269224l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M920 418.96089998269224l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M920 426.96089998269224l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M920 434.96089998269224l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M920 442.96089998269224l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<circle class="beacon" cx="918" cy="345.96089998269224" r="2" fill="#2fd48a" style="animation-delay:1.4s"/>
+</g>
+<g><title>2026-09-18: 0 contributions</title>
+<path d="M895 484.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M903 488.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M903 477.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-19: 0 contributions</title>
+<path d="M880 493.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M888 497.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M888 486.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-20: 0 contributions</title>
+<path d="M988 443.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M996 447.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M996 436.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-21: 0 contributions</title>
+<path d="M973 452.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M981 456.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M981 445.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-22: 0 contributions</title>
+<path d="M958 461.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M966 465.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M966 454.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-23: 0 contributions</title>
+<path d="M943 470.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M951 474.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M951 463.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-24: 0 contributions</title>
+<path d="M928 479.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M936 483.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M936 472.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-25: 0 contributions</title>
+<path d="M913 488.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M921 492.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M921 481.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-26: 0 contributions</title>
+<path d="M898 497.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M906 501.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M906 490.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-27: 0 contributions</title>
+<path d="M1006 448.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1014 452.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1014 441.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-28: 0 contributions</title>
+<path d="M991 457.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M999 461.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M999 450.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-29: 0 contributions</title>
+<path d="M976 466.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M984 470.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M984 459.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-09-30: 0 contributions</title>
+<path d="M961 475.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M969 479.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M969 468.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-01: 0 contributions</title>
+<path d="M946 484.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M954 488.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M954 477.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-02: 0 contributions</title>
+<path d="M931 493.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M939 497.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M939 486.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-03: 0 contributions</title>
+<path d="M916 502.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M924 506.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M924 495.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-04: 0 contributions</title>
+<path d="M1024 453.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1032 457.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1032 446.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-05: 0 contributions</title>
+<path d="M1009 462.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1017 466.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1017 455.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-06: 0 contributions</title>
+<path d="M994 471.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1002 475.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1002 464.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-07: 0 contributions</title>
+<path d="M979 480.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M987 484.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M987 473.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-08: 0 contributions</title>
+<path d="M964 489.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M972 493.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M972 482.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-09: 0 contributions</title>
+<path d="M949 498.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M957 502.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M957 491.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-10: 0 contributions</title>
+<path d="M934 507.4l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M942 511.4l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M942 500.4l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-11: 0 contributions</title>
+<path d="M1042 458.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1050 462.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1050 451.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-12: 0 contributions</title>
+<path d="M1027 467.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1035 471.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1035 460.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-13: 0 contributions</title>
+<path d="M1012 476.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1020 480.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1020 469.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-14: 0 contributions</title>
+<path d="M997 485.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1005 489.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1005 478.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-15: 0 contributions</title>
+<path d="M982 494.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M990 498.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M990 487.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-16: 0 contributions</title>
+<path d="M967 503.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M975 507.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M975 496.2l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-17: 0 contributions</title>
+<path d="M952 512.2l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M960 516.2l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M960 505.20000000000005l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-18: 0 contributions</title>
+<path d="M1060 463.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1068 467.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1068 456.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-19: 0 contributions</title>
+<path d="M1045 472.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1053 476.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1053 465.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-20: 0 contributions</title>
+<path d="M1030 481.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1038 485.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1038 474.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-21: 0 contributions</title>
+<path d="M1015 490.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1023 494.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1023 483.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-22: 0 contributions</title>
+<path d="M1000 499.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1008 503.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1008 492.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-23: 0 contributions</title>
+<path d="M985 508.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M993 512.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M993 501.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-24: 0 contributions</title>
+<path d="M970 517.0l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M978 521.0l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M978 510.0l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-25: 0 contributions</title>
+<path d="M1078 467.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1086 471.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1086 460.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-26: 0 contributions</title>
+<path d="M1063 476.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1071 480.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1071 469.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-27: 0 contributions</title>
+<path d="M1048 485.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1056 489.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1056 478.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-28: 0 contributions</title>
+<path d="M1033 494.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1041 498.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1041 487.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-29: 0 contributions</title>
+<path d="M1018 503.79999999999995l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1026 507.79999999999995l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1026 496.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-30: 0 contributions</title>
+<path d="M1003 512.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1011 516.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1011 505.79999999999995l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-10-31: 0 contributions</title>
+<path d="M988 521.8l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M996 525.8l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M996 514.8l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-11-01: 0 contributions</title>
+<path d="M1096 472.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1104 476.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1104 465.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-11-02: 0 contributions</title>
+<path d="M1081 481.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1089 485.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1089 474.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-11-03: 0 contributions</title>
+<path d="M1066 490.6l8 4v-3l-8 -4Z" fill="#1c273b"/>
+<path d="M1074 494.6l8 -4v-3l-8 4Z" fill="#24324b"/>
+<path d="M1074 483.6l8 4 -8 4 -8 -4Z" fill="#273349"/>
+</g>
+<g><title>2026-11-04: 4 contributions</title>
+<path d="M1051 499.6l8 4v-67.7262742772967l-8 -4Z" fill="#8e451d"/>
+<path d="M1059 503.6l8 -4v-67.7262742772967l-8 4Z" fill="url(#tower)"/>
+<path d="M1059 427.87372572270334l8 4 -8 4 -8 -4Z" fill="#2fd48a"/>
+<path d="M1061 449.87372572270334l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M1061 457.87372572270334l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M1061 465.87372572270334l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M1061 473.87372572270334l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<path d="M1061 481.87372572270334l3 -1.5v3l-3 1.5Z" fill="#ffe8ac" opacity=".8"/>
+<circle class="beacon" cx="1059" cy="424.87372572270334" r="2" fill="#2fd48a" style="animation-delay:1.0499999999999998s"/>
+</g>
+<text class="jb" x="52" y="592" font-size="12" fill="#8b93a7" letter-spacing="1.5">REAL ACTIVITY. REAL PROGRESS.</text>
+<text class="jb" x="1228" y="592" font-size="12" fill="#8b93a7" text-anchor="end">One building = one day of contributions</text>
+</svg>

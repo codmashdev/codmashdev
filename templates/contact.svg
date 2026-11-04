@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 440" width="1280" height="440" role="img" aria-label="Let's connect"><title>Let's connect</title><desc>Codmash anime lead beside contact information for our website, email, GitHub and LinkedIn. Use the clickable badges immediately below the panel.</desc><defs><style>{{FONTS}}
+
+text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
+.sg{font-family:'SG','Segoe UI',Helvetica,Arial,sans-serif;font-weight:700}
+.sgm{font-family:'SGM','Segoe UI',Helvetica,Arial,sans-serif;font-weight:500}
+.jb{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
+.jbb{font-family:'JBMB',ui-monospace,Menlo,Consolas,monospace;font-weight:700}
+@keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes fadeL{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:translateX(0)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+.fu{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}
+.fi{animation:fadeIn .7s ease both}
+.fl{animation:fadeL .7s cubic-bezier(.2,.8,.2,1) both}
+
+
+.card{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}
+.arrow{animation:nudge 1.9s ease-in-out infinite}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+.art{animation:fadeIn 1s ease .2s both}
+.float{animation:flt 8s ease-in-out infinite}
+@keyframes flt{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+
+@media (prefers-reduced-motion:reduce){
+ *{animation:none!important}
+ .role{opacity:0!important}.role-primary{opacity:1!important}
+ .chakra,.dust,.foil{display:none}
+}
+</style>
+<linearGradient id="cpanel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#171b28"/><stop offset="1" stop-color="#12151f"/></linearGradient><linearGradient id="cedge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2383f" stop-opacity=".55"/><stop offset=".5" stop-color="#272e42"/><stop offset="1" stop-color="#4aa8ff" stop-opacity=".5"/></linearGradient><pattern id="cdots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r=".9" fill="#fff" fill-opacity=".05"/></pattern>
+<linearGradient id="kf" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fff"/><stop offset=".74" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+<mask id="km" maskUnits="userSpaceOnUse" x="32" y="20" width="620" height="400">
+  <rect x="32" y="20" width="620" height="400" rx="18" fill="url(#kf)"/></mask>
+<radialGradient id="rglow"><stop offset="0" stop-color="#e2383f" stop-opacity=".22"/><stop offset="1" stop-color="#e2383f" stop-opacity="0"/></radialGradient>
+<filter id="b50" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter>
+</defs>
+<rect width="1280" height="440" rx="24" fill="url(#cpanel)"/><rect width="1280" height="440" rx="24" fill="url(#cdots)"/><rect x=".75" y=".75" width="1278.5" height="438.5" rx="23.25" fill="none" stroke="url(#cedge)" stroke-width="1.5"/>
+<circle cx="330" cy="230" r="230" fill="url(#rglow)" filter="url(#b50)"/>
+
+<g class="art"><g class="float" mask="url(#km)">
+  <image x="138" y="22" width="400" height="400" href="{{ART_NINJA}}" preserveAspectRatio="xMidYMid meet"/>
+</g></g>
+
+<g class="fu" style="animation-delay:.3s">
+  <text class="jbb" x="690" y="84" font-size="12" fill="#e2383f" letter-spacing="2.1">// JOIN THE SQUAD</text>
+  <text class="sg" x="690" y="124" font-size="27" fill="#eef1f7" letter-spacing="-.4">Let's build something legendary</text>
+</g>
+{{CONTACT_CARDS}}
+<text class="jb fi" x="690" y="412" font-size="12" fill="#8b93a7" style="animation-delay:1.6s">
+  <tspan fill="#ff7a1a">&#9670;</tspan> Open for projects, partnerships and big ideas
+</text>
+</svg>

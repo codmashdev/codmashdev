@@ -1,0 +1,43 @@
+name: Refresh Codmash profile
+
+on:
+  schedule:
+    - cron: '30 1 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'build_assets.py'
+      - 'templates/**'
+      - '.github/workflows/refresh-profile.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: codmash-profile-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh public GitHub data and rebuild self-contained images
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 build_assets.py --refresh
+      - name: Commit updated profile assets
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/github.json assets/*.svg
+          if git diff --cached --quiet; then
+            echo 'Profile data is already current.'
+            exit 0
+          fi
+          git commit -m 'Refresh Codmash profile activity'
+          git push

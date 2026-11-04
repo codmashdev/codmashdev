@@ -1,76 +1,72 @@
 <div align="center">
 
-<!-- CINEMATIC CODMASH INTRO -->
-<img src="./assets/hero.svg" alt="CodMash — web development, software and AI automation" width="100%" />
+<a href="https://codmash.com/"><img src="./assets/hero.svg" alt="Hi, we're Codmash — web and mobile development, custom software, eCommerce, UI/UX and AI automation" width="100%" /></a>
 
 <br/><br/>
 
-<!-- MALE MASCOT TEAM, REPLACING ORIGINAL GIRL ARTWORK -->
-<img src="./assets/team.svg" alt="CodMash developers — design, build and automate" width="390" />
+<img src="./assets/team7-dance.gif" alt="Team 7 chibi dance" width="260" />
+
+<br/>
+
+<a href="https://codmash.com/services/"><img src="./assets/mission.svg" alt="Our ninja way — interfaces that feel alive, software with a purpose, and automation that gives time back" width="100%" /></a>
 
 <br/><br/>
 
-<!-- BRAND PHILOSOPHY: SAME DARK FEATURE PANEL LAYOUT -->
-<img src="./assets/mission.svg" alt="CodMash philosophy — Believe in the build" width="100%" />
+<img src="./assets/stack.svg" alt="Our tech arsenal: HTML, CSS, JavaScript, TypeScript, React, Next.js, PHP, Laravel, Python, WordPress, Shopify, Joomla, WooCommerce, Figma and Git" width="100%" />
 
 <br/><br/>
 
-<!-- TECH STACK PANEL -->
-<img src="./assets/stack.svg" alt="CodMash technical arsenal" width="100%" />
-
-<br/><br/>
-
-<!-- BRAND IDENTITY AND COMPANY HIGHLIGHTS -->
-<img src="./assets/identity.svg" alt="CodMash identity card and company highlights" width="100%" />
+<a href="https://github.com/codmashdev"><img src="./assets/identity.svg" alt="Codmash studio ID and public GitHub dashboard — repositories, stars, forks, followers and contribution activity" width="100%" /></a>
 
 <br/><br/>
 
 </div>
 
-## 🏆 Featured Missions
+## 🍥 S-Rank Missions
 
-| Project | What We Built | Expertise | Focus |
-| :--- | :--- | :--- | :---: |
-| **[Recoup](https://codmash.com/work/)** | Shopify redesign with conversion-focused user experience. | <code>Shopify</code> <code>UI/UX</code> | 🛒 |
-| **[Go Factory Finish](https://codmash.com/work/)** | Responsive web experience and performance-focused design. | <code>Web</code> <code>UI/UX</code> | ⚡ |
-| **[The Certified Lover Girls](https://codmash.com/work/)** | Shopify eCommerce experience with a distinct brand identity. | <code>Shopify</code> <code>Design</code> | 🎨 |
-| **[VibeHuman](https://codmash.com/work/)** | User-focused online shopping experience. | <code>Shopify</code> <code>eCommerce</code> | 🛍️ |
-| **[Petme2](https://codmash.com/work/)** | Modern online store and shopping journey. | <code>Shopify</code> <code>Web</code> | 🌐 |
+<table>
+<tr><th>Mission</th><th>What we built</th><th>Our expertise</th><th align="center">Focus</th></tr>
+<tr><td><a href="https://codmash.com/work/recoup-shopify-website-redesign-cro/"><b>Recoup</b></a></td><td>Shopify redesign with a conversion-focused shopping experience.</td><td><code>Shopify</code> <code>UI/UX</code></td><td align="center">🛒</td></tr>
+<tr><td><a href="https://codmash.com/work/go-factory-finish/"><b>Go Factory Finish</b></a></td><td>Responsive web experience with performance-focused design.</td><td><code>Web</code> <code>UI/UX</code></td><td align="center">⚡</td></tr>
+<tr><td><a href="https://codmash.com/work/the-certified-lover-girls/"><b>The Certified Lover Girls</b></a></td><td>Shopify eCommerce experience with a distinct brand identity.</td><td><code>Shopify</code> <code>Design</code></td><td align="center">🎨</td></tr>
+<tr><td><a href="https://codmash.com/work/vibehuman/"><b>VibeHuman</b></a></td><td>User-focused online store and shopping experience.</td><td><code>Shopify</code> <code>eCommerce</code></td><td align="center">🛍️</td></tr>
+<tr><td><a href="https://codmash.com/work/petme2/"><b>Petme2</b></a></td><td>Modern online store with a thoughtful shopping journey.</td><td><code>Shopify</code> <code>Web</code></td><td align="center">🌐</td></tr>
+</table>
 
 <div align="center">
 
-<a href="https://codmash.com/work/"><b>→ Explore Our Portfolio</b></a>
+<a href="https://codmash.com/work/"><b>→ Explore our portfolio</b></a>
 
 <br/><br/>
 
-<img src="./assets/runner.svg" alt="CodMash male developer mascot" width="190" />
+<img src="./assets/rasengan-run.gif" alt="Naruto running with a rasengan" width="150" />
 
-### 🌃 Our Contribution City
+<h3>🌃 Our contribution village</h3>
 
-*Every idea begins a journey. Every build makes it real.*
+<p><em>Every commit builds something. Every day moves us forward.</em></p>
 
-<img src="./assets/contribution.svg" alt="CodMash isometric engineering city" width="100%" />
+<a href="https://github.com/codmashdev"><img src="./assets/contribution.svg" alt="Codmash contribution village — each building represents one real day of public GitHub activity" width="100%" /></a>
 
 <br/><br/>
 
-<!-- CONNECT WITH THE STUDIO -->
-<img src="./assets/contact.svg" alt="Let's build something remarkable with CodMash" width="100%" />
+<img src="./assets/contact.svg" alt="Let's build something legendary — codmash.com, support@codmash.com, GitHub @codmashdev and LinkedIn codmashian" width="100%" />
 
 <br/>
 
-<a href="https://codmash.com/"><img src="https://img.shields.io/badge/WEBSITE-ff8a2b?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="CodMash website"/></a>
-<a href="https://codmash.com/work/"><img src="https://img.shields.io/badge/PORTFOLIO-13243a?style=for-the-badge&logo=githubpages&logoColor=white" alt="CodMash portfolio"/></a>
-<a href="mailto:support@codmash.com"><img src="https://img.shields.io/badge/EMAIL-d74a30?style=for-the-badge&logo=gmail&logoColor=white" alt="Email CodMash"/></a>
-<a href="https://www.linkedin.com/company/codmashian/"><img src="https://img.shields.io/badge/LINKEDIN-2877b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodMash LinkedIn"/></a>
+<a href="https://codmash.com/"><img src="./assets/badge-website.svg" alt="Visit the Codmash website" /></a>
+<a href="https://codmash.com/work/"><img src="./assets/badge-portfolio.svg" alt="Explore the Codmash portfolio" /></a>
+<a href="mailto:support@codmash.com"><img src="./assets/badge-email.svg" alt="Email Codmash" /></a>
+<a href="https://github.com/codmashdev"><img src="./assets/badge-github.svg" alt="Codmash on GitHub" /></a>
+<a href="https://www.linkedin.com/company/codmashian/"><img src="./assets/badge-linkedin.svg" alt="Codmash on LinkedIn" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/WELCOME_TO-CODMASH-ff8a2b?style=for-the-badge&labelColor=111827" alt="Welcome to CodMash" />
+<img src="./assets/badge-codmash.svg" alt="Welcome to Codmash" />
 
 <br/>
 
-<img src="./assets/runner.svg" alt="CodMash coder signing off" width="100"/>
+<img src="./assets/chibi-walk.gif" alt="Chibi Naruto walking" width="90" />
 
-**Build boldly. Ship thoughtfully. Keep growing.** 🚀
+<p><b>Build boldly. Ship thoughtfully. Keep growing.</b> 🍥</p>
 
 </div>

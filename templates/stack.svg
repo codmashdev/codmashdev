@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 500" width="1280" height="500" role="img" aria-label="Jutsu arsenal — tech stack"><title>Jutsu arsenal — tech stack</title><desc>Codmash ninja shines an animated flashlight across fifteen technologies. Chips enter in sequence and glow along the beam.</desc><defs><style>{{FONTS}}
+
+text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
+.sg{font-family:'SG','Segoe UI',Helvetica,Arial,sans-serif;font-weight:700}
+.sgm{font-family:'SGM','Segoe UI',Helvetica,Arial,sans-serif;font-weight:500}
+.jb{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
+.jbb{font-family:'JBMB',ui-monospace,Menlo,Consolas,monospace;font-weight:700}
+@keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes fadeL{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:translateX(0)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+.fu{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}
+.fi{animation:fadeIn .7s ease both}
+.fl{animation:fadeL .7s cubic-bezier(.2,.8,.2,1) both}
+
+
+.chip{animation:pop .55s cubic-bezier(.2,.8,.3,1.25) both}
+@keyframes pop{0%{opacity:0;transform:translateX(-18px) scale(.82)}70%{opacity:1;transform:translateX(2px) scale(1.04)}100%{opacity:1;transform:translateX(0) scale(1)}}
+.beam{animation:flick 4.5s ease-in-out infinite}
+@keyframes flick{0%,100%{opacity:.5}18%{opacity:.75}30%{opacity:.42}52%{opacity:.8}70%{opacity:.55}}
+.dust{animation:drift 7s linear infinite}
+@keyframes drift{0%{transform:translate(0,0);opacity:0}15%{opacity:.7}85%{opacity:.5}100%{transform:translate(42px,-26px);opacity:0}}
+
+@media (prefers-reduced-motion:reduce){
+ *{animation:none!important}
+ .role{opacity:0!important}.role-primary{opacity:1!important}
+ .chakra,.dust,.foil{display:none}
+}
+</style>
+<linearGradient id="jpanel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#171b28"/><stop offset="1" stop-color="#12151f"/></linearGradient><linearGradient id="jedge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb52e" stop-opacity=".55"/><stop offset=".5" stop-color="#272e42"/><stop offset="1" stop-color="#ff7a1a" stop-opacity=".5"/></linearGradient><pattern id="jdots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r=".9" fill="#fff" fill-opacity=".05"/></pattern>
+<linearGradient id="beamG" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#ffe9b0" stop-opacity=".85"/><stop offset=".18" stop-color="#ffb52e" stop-opacity=".30"/>
+  <stop offset="1" stop-color="#ffb52e" stop-opacity=".02"/></linearGradient>
+<linearGradient id="artFade" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fff"/><stop offset=".62" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+<linearGradient id="artFadeB" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#000"/><stop offset=".12" stop-color="#fff"/><stop offset=".88" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+<mask id="artM" maskUnits="userSpaceOnUse" x="28" y="42" width="380" height="417">
+  <rect x="28" y="42" width="380" height="417" fill="url(#artFade)"/></mask>
+<mask id="artMB" maskUnits="userSpaceOnUse" x="28" y="42" width="380" height="417">
+  <rect x="28" y="42" width="380" height="417" fill="url(#artFadeB)"/></mask>
+<radialGradient id="torch"><stop offset="0" stop-color="#fff6d8" stop-opacity=".95"/>
+  <stop offset=".35" stop-color="#ffb52e" stop-opacity=".5"/><stop offset="1" stop-color="#ffb52e" stop-opacity="0"/></radialGradient>
+<filter id="softb" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="16"/></filter>
+<filter id="gl"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1280" height="500" rx="24" fill="url(#jpanel)"/><rect width="1280" height="500" rx="24" fill="url(#jdots)"/><rect x=".75" y=".75" width="1278.5" height="498.5" rx="23.25" fill="none" stroke="url(#jedge)" stroke-width="1.5"/>
+
+<!-- torch beam -->
+<g class="beam">
+  <path d="M377 238 L1252 58 L1252 452 Z" fill="url(#beamG)"/>
+  <path d="M377 238 L1252 128 L1252 372 Z" fill="url(#beamG)" opacity=".55" filter="url(#softb)"/>
+</g>
+<circle cx="377" cy="238" r="54" fill="url(#torch)" class="beam"/>
+
+<!-- artwork -->
+<g mask="url(#artM)"><g mask="url(#artMB)">
+  <image x="18" y="22" width="380" height="570" href="{{ART_TORCH}}" preserveAspectRatio="xMidYMid slice"/>
+</g></g>
+
+<circle class="dust" cx="640" cy="300" r="1.6" fill="#ffb52e" opacity="0" style="animation-delay:0s"/><circle class="dust" cx="820" cy="220" r="1.2" fill="#ffb52e" opacity="0" style="animation-delay:1.6s"/><circle class="dust" cx="980" cy="330" r="1.5" fill="#ffb52e" opacity="0" style="animation-delay:3.1s"/><circle class="dust" cx="720" cy="160" r="1.1" fill="#ffb52e" opacity="0" style="animation-delay:2.2s"/><circle class="dust" cx="1100" cy="260" r="1.3" fill="#ffb52e" opacity="0" style="animation-delay:4.4s"/><circle class="dust" cx="560" cy="380" r="1.4" fill="#ffb52e" opacity="0" style="animation-delay:5.2s"/>
+
+<g class="fu" style="animation-delay:.15s">
+  <text class="jbb" x="462" y="56" font-size="12" fill="#ffb52e" letter-spacing="2.1">// JUTSU ARSENAL</text>
+  <text class="sg" x="462" y="98" font-size="28" fill="#eef1f7" letter-spacing="-.4">Tools we build with</text>
+</g>
+<g class="fi" style="animation-delay:.4s">
+  <text class="jb" x="1240" y="56" font-size="10.5" fill="#8b93a7" text-anchor="end" letter-spacing="1.5">15 TOOLS IN OUR ARSENAL</text>
+</g>
+{{TECH_CHIPS}}
+</svg>
