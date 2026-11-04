@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="CodMash identity badge and published company highlights">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0c1019"/>
+        <stop offset="60%" stop-color="#171d2c"/>
+        <stop offset="100%" stop-color="#0e1420"/>
+      </linearGradient>
+      <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#ffd178"/>
+        <stop offset="58%" stop-color="#ff8a2b"/>
+        <stop offset="100%" stop-color="#d85113"/>
+      </linearGradient>
+      <linearGradient id="coat" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#ffab4f"/>
+        <stop offset="55%" stop-color="#ee7222"/>
+        <stop offset="100%" stop-color="#b33b14"/>
+      </linearGradient>
+      <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#5dd6ff"/>
+        <stop offset="100%" stop-color="#105ca9"/>
+      </linearGradient>
+      <radialGradient id="halo">
+        <stop offset="0%" stop-color="#ff8a2b" stop-opacity=".28"/>
+        <stop offset="100%" stop-color="#ff8a2b" stop-opacity="0"/>
+      </radialGradient>
+      <radialGradient id="cyanHalo">
+        <stop offset="0%" stop-color="#37b8f7" stop-opacity=".16"/>
+        <stop offset="100%" stop-color="#37b8f7" stop-opacity="0"/>
+      </radialGradient>
+      <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+        <circle cx="2" cy="2" r="1" fill="#9da9bd" opacity=".13"/>
+      </pattern>
+      <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="16"/>
+      </filter>
+    </defs>
+    <rect x="1" y="1" width="1198" height="458" rx="24" fill="url(#bg)" stroke="#3b4355" stroke-width="2" opacity="1"/><ellipse cx="888.0" cy="230.0" rx="360.0" ry="391.0" fill="url(#halo)"/><line x1="60" y1="0" x2="60" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="140" y1="0" x2="140" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="220" y1="0" x2="220" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="300" y1="0" x2="300" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="380" y1="0" x2="380" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="460" y1="0" x2="460" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="540" y1="0" x2="540" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="620" y1="0" x2="620" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="700" y1="0" x2="700" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="780" y1="0" x2="780" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="860" y1="0" x2="860" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="940" y1="0" x2="940" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="1020" y1="0" x2="1020" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="1100" y1="0" x2="1100" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="1180" y1="0" x2="1180" y2="460" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="0" y1="40" x2="1200" y2="40" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="120" x2="1200" y2="120" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="200" x2="1200" y2="200" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="280" x2="1200" y2="280" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="360" x2="1200" y2="360" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="440" x2="1200" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><text x="478" y="69" fill="#ff8a2b" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="800" text-anchor="start" opacity="1" letter-spacing="2">// THE CODMASH IDENTITY</text><text x="478" y="110" fill="#f7f8fc" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="800" text-anchor="start" opacity="1" letter-spacing="0">Our work, in focus.</text><rect x="52" y="36" width="355" height="387" rx="18" fill="#222a38" stroke="#ae642e" stroke-width="2" opacity="1"/><rect x="69" y="53" width="321" height="42" rx="10" fill="#cb591b" stroke="none" stroke-width="1" opacity="1"/><text x="88" y="81" fill="#f7f8fc" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="800" text-anchor="start" opacity="1" letter-spacing="1.3">CODMASH  /  DIGITAL STUDIO</text><circle cx="230" cy="205" r="92" fill="#132437" stroke="#e58a39" stroke-width="3"/><g transform="translate(130 100) scale(0.55)"><g transform="">
+      <ellipse cx="153" cy="349" rx="119" ry="22" fill="#fe7d22" opacity=".19" filter="url(#softGlow)"/>
+      <path d="M116 262 L105 344 L143 344 L167 285 L180 343 L219 343 L218 257Z" fill="#181e2c" stroke="#313747" stroke-width="4"/>
+      <path d="M103 336 L150 336 L149 356 L91 356 Q85 346 103 336Z" fill="#313644"/>
+      <path d="M180 335 L226 335 L238 354 L176 356Z" fill="#313644"/>
+      <path d="M80 163 Q98 134 128 136 L188 136 Q220 139 235 173 L261 264 Q250 288 219 275 L204 243 L218 283 Q159 302 91 275 L107 238 L89 274 Q62 279 53 255Z" fill="url(#coat)" stroke="#773318" stroke-width="5"/>
+      <path d="M114 145 L151 179 L191 144 L187 266 Q150 281 112 264Z" fill="#222b38" stroke="#0d1727" stroke-width="4"/>
+      <path d="M152 180L152 267" stroke="#ff8a2b" stroke-width="4"/>
+      <path d="M111 156 L77 228 L91 259 L112 235" fill="#ff9c40" stroke="#803d1c" stroke-width="5"/>
+      <path d="M198 155 L238 225 L222 266 L199 239" fill="#c6511b" stroke="#70301c" stroke-width="5"/>
+      <path d="M95 228 L70 226 Q44 215 43 191 L34 156 Q30 141 42 134 Q56 125 64 145 L72 174 L111 193Z" fill="#dc742e" stroke="#773c22" stroke-width="4"/>
+      <path d="M35 158 L25 134 Q24 122 35 122 L49 141 L49 113 Q52 102 61 112 L64 143 L76 134 Q91 131 84 146 L64 169Z" fill="#f1b37e" stroke="#8d593f" stroke-width="4"/>
+      <path d="M127 120 L130 154 L180 154 L183 115Z" fill="#d99463" stroke="#a46840" stroke-width="3"/>
+      <path d="M103 67 Q100 29 146 17 Q206 22 215 81 L210 113 Q195 139 163 143 Q126 141 110 120Z" fill="#efb486" stroke="#95654e" stroke-width="4"/>
+      <path d="M98 82 Q88 50 109 26 L122 35 L136 8 L153 24 L178 6 L183 26 L212 18 L205 48 L225 47 L208 75 Q186 59 178 52 Q153 76 113 73 L110 96Z" fill="#1b1d29" stroke="#0a111d" stroke-width="5"/>
+      <path d="M114 70 Q140 64 151 49 Q173 68 210 63" fill="none" stroke="#2d3040" stroke-width="6"/>
+      <path d="M126 94 L146 92 M177 93 L196 95" stroke="#302d30" stroke-width="6" stroke-linecap="round"/>
+      <ellipse cx="139" cy="100" rx="5" ry="8" fill="#202732"/>
+      <ellipse cx="186" cy="100" rx="5" ry="8" fill="#202732"/>
+      <path d="M159 102 Q154 114 164 116" fill="none" stroke="#b77d56" stroke-width="3"/>
+      <path d="M149 125 Q163 135 179 122" fill="none" stroke="#743e3b" stroke-width="3" stroke-linecap="round"/>
+      <path d="M109 88 Q99 78 91 90 Q94 109 108 109" fill="#e6a777" stroke="#9b674b" stroke-width="3"/>
+      <path d="M212 88 Q223 79 229 92 Q228 109 209 111" fill="#e6a777" stroke="#9b674b" stroke-width="3"/>
+      <path d="M111 167 L133 185 L123 202 M197 167L178 187L190 202" stroke="#ffc374" fill="none" stroke-width="5"/>
+      <path d="M203 211 L233 214" stroke="#39c5ff" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="229" cy="214" r="5" fill="#39c5ff"/>
+      <path d="M94 265 Q154 287 214 264" fill="none" stroke="#4c2419" stroke-width="4" opacity=".7"/>
+    </g></g><text x="230" y="329" fill="#ff8a2b" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="800" text-anchor="middle" opacity="1" letter-spacing="0">CODMASH</text><text x="230" y="357" fill="#f7f8fc" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="middle" opacity="1" letter-spacing="2">IDEAS INTO IMPACT</text><line x1="89" y1="374" x2="372" y2="374" stroke="#4d596a" stroke-width="2" opacity="1"/><text x="94" y="403" fill="#39c5ff" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">WEB  •  SOFTWARE  •  AUTOMATION</text><rect x="482" y="145" width="154" height="92" rx="13" fill="#20293a" stroke="#353f51" stroke-width="1" opacity="1"/><text x="499" y="186" fill="#ff8a2b" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" text-anchor="start" opacity="1" letter-spacing="0">250+</text><text x="499" y="211" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">PROJECTS DELIVERED</text><rect x="650" y="145" width="154" height="92" rx="13" fill="#20293a" stroke="#353f51" stroke-width="1" opacity="1"/><text x="667" y="186" fill="#39c5ff" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" text-anchor="start" opacity="1" letter-spacing="0">12+</text><text x="667" y="211" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">YEARS EXPERIENCE</text><rect x="818" y="145" width="154" height="92" rx="13" fill="#20293a" stroke="#353f51" stroke-width="1" opacity="1"/><text x="835" y="186" fill="#a98bfd" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" text-anchor="start" opacity="1" letter-spacing="0">100+</text><text x="835" y="211" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">HAPPY CLIENTS</text><rect x="986" y="145" width="154" height="92" rx="13" fill="#20293a" stroke="#353f51" stroke-width="1" opacity="1"/><text x="1003" y="186" fill="#66d6a1" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" text-anchor="start" opacity="1" letter-spacing="0">GLOBAL</text><text x="1003" y="211" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">PARTNER MINDSET</text><rect x="478" y="262" width="658" height="157" rx="14" fill="#1b2433" stroke="#344052" stroke-width="1" opacity="1"/><text x="500" y="290" fill="#f7f8fc" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800" text-anchor="start" opacity="1" letter-spacing="2">FROM IDEA TO IMPACT</text><text x="500" y="314" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">Discover</text><rect x="609" y="302" width="477" height="11" rx="5" fill="#313c4c" stroke="none" stroke-width="1" opacity="1"/><rect x="609" y="302" width="391" height="11" rx="5" fill="#ff8a2b" stroke="none" stroke-width="1" opacity="1"/><text x="500" y="341" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">Design</text><rect x="609" y="329" width="477" height="11" rx="5" fill="#313c4c" stroke="none" stroke-width="1" opacity="1"/><rect x="609" y="329" width="448" height="11" rx="5" fill="#39c5ff" stroke="none" stroke-width="1" opacity="1"/><text x="500" y="368" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">Develop</text><rect x="609" y="356" width="477" height="11" rx="5" fill="#313c4c" stroke="none" stroke-width="1" opacity="1"/><rect x="609" y="356" width="429" height="11" rx="5" fill="#72d6a2" stroke="none" stroke-width="1" opacity="1"/><text x="500" y="395" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">Deliver</text><rect x="609" y="383" width="477" height="11" rx="5" fill="#313c4c" stroke="none" stroke-width="1" opacity="1"/><rect x="609" y="383" width="410" height="11" rx="5" fill="#ad8bf5" stroke="none" stroke-width="1" opacity="1"/><text x="1138" y="435" fill="#6f7b8d" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="600" text-anchor="end" opacity="1" letter-spacing="0">CAPABILITIES  /  NOT LIVE GITHUB STATS</text></svg>

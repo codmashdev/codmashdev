@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="CodMash hero with male software developer mascot">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0c1019"/>
+        <stop offset="60%" stop-color="#171d2c"/>
+        <stop offset="100%" stop-color="#0e1420"/>
+      </linearGradient>
+      <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#ffd178"/>
+        <stop offset="58%" stop-color="#ff8a2b"/>
+        <stop offset="100%" stop-color="#d85113"/>
+      </linearGradient>
+      <linearGradient id="coat" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#ffab4f"/>
+        <stop offset="55%" stop-color="#ee7222"/>
+        <stop offset="100%" stop-color="#b33b14"/>
+      </linearGradient>
+      <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#5dd6ff"/>
+        <stop offset="100%" stop-color="#105ca9"/>
+      </linearGradient>
+      <radialGradient id="halo">
+        <stop offset="0%" stop-color="#ff8a2b" stop-opacity=".28"/>
+        <stop offset="100%" stop-color="#ff8a2b" stop-opacity="0"/>
+      </radialGradient>
+      <radialGradient id="cyanHalo">
+        <stop offset="0%" stop-color="#37b8f7" stop-opacity=".16"/>
+        <stop offset="100%" stop-color="#37b8f7" stop-opacity="0"/>
+      </radialGradient>
+      <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+        <circle cx="2" cy="2" r="1" fill="#9da9bd" opacity=".13"/>
+      </pattern>
+      <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="16"/>
+      </filter>
+    </defs>
+    <rect x="1" y="1" width="1198" height="438" rx="24" fill="url(#bg)" stroke="#3b4355" stroke-width="2" opacity="1"/><ellipse cx="888.0" cy="220.0" rx="360.0" ry="374.0" fill="url(#halo)"/><line x1="60" y1="0" x2="60" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="140" y1="0" x2="140" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="220" y1="0" x2="220" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="300" y1="0" x2="300" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="380" y1="0" x2="380" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="460" y1="0" x2="460" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="540" y1="0" x2="540" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="620" y1="0" x2="620" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="700" y1="0" x2="700" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="780" y1="0" x2="780" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="860" y1="0" x2="860" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="940" y1="0" x2="940" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="1020" y1="0" x2="1020" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="1100" y1="0" x2="1100" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="1180" y1="0" x2="1180" y2="440" stroke="#71809b" stroke-width="0.5" opacity="0.07"/><line x1="0" y1="40" x2="1200" y2="40" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="120" x2="1200" y2="120" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="200" x2="1200" y2="200" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="280" x2="1200" y2="280" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><line x1="0" y1="360" x2="1200" y2="360" stroke="#71809b" stroke-width="0.5" opacity="0.06"/><path d="M42 88V43H96 M1104 43H1158V88 M42 352V397H96 M1104 397H1158V352" fill="none" stroke="#ff8a2b" stroke-width="3" opacity=".7"/><path d="M124 115H136 M130 109V121" stroke="#ff8a2b" opacity=".36" stroke-width="2"/><path d="M259 76H271 M265 70V82" stroke="#39c5ff" opacity=".36" stroke-width="2"/><path d="M436 335H448 M442 329V341" stroke="#ff8a2b" opacity=".36" stroke-width="2"/><path d="M740 81H752 M746 75V87" stroke="#39c5ff" opacity=".36" stroke-width="2"/><path d="M864 330H876 M870 324V336" stroke="#ff8a2b" opacity=".36" stroke-width="2"/><path d="M1068 112H1080 M1074 106V118" stroke="#39c5ff" opacity=".36" stroke-width="2"/><path d="M1114 314H1126 M1120 308V320" stroke="#ff8a2b" opacity=".36" stroke-width="2"/><text x="68" y="100" fill="#39c5ff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" text-anchor="start" opacity="1" letter-spacing="2">&lt; CODMASH / DIGITAL EXPERIENCE STUDIO &gt;</text><text x="68" y="166" fill="#f7f8fc" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="600" text-anchor="start" opacity="1" letter-spacing="0">Hi, we&#x27;re</text><text x="68" y="239" fill="#ff8a2b" font-family="Arial,Helvetica,sans-serif" font-size="73" font-weight="800" text-anchor="start" opacity="1" letter-spacing="0">CodMash</text><text x="68" y="279" fill="#f7f8fc" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" text-anchor="start" opacity="1" letter-spacing="1.5">WE DESIGN. WE DEVELOP. WE AUTOMATE.</text><text x="68" y="314" fill="#a0aabc" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="500" text-anchor="start" opacity="1" letter-spacing="0">Crafting standout web experiences and intelligent products.</text><rect x="68" y="343" width="145" height="39" rx="12" fill="#1c2636" stroke="#394457" stroke-width="1" opacity="1"/><circle cx="88" cy="362" r="6" fill="#ff8a2b"/><text x="104" y="369" fill="#f7f8fc" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">WEBSITES</text><rect x="228" y="343" width="146" height="39" rx="12" fill="#1c2636" stroke="#394457" stroke-width="1" opacity="1"/><circle cx="248" cy="362" r="6" fill="#39c5ff"/><text x="264" y="369" fill="#f7f8fc" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">SOFTWARE</text><rect x="389" y="343" width="142" height="39" rx="12" fill="#1c2636" stroke="#394457" stroke-width="1" opacity="1"/><circle cx="409" cy="362" r="6" fill="#5ce5a2"/><text x="425" y="369" fill="#f7f8fc" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0">AI + UX</text><ellipse cx="943" cy="218" rx="226" ry="194" fill="url(#cyanHalo)"/><g transform="translate(747 49) scale(1.04)"><g transform="">
+      <ellipse cx="153" cy="349" rx="119" ry="22" fill="#fe7d22" opacity=".19" filter="url(#softGlow)"/>
+      <path d="M116 262 L105 344 L143 344 L167 285 L180 343 L219 343 L218 257Z" fill="#181e2c" stroke="#313747" stroke-width="4"/>
+      <path d="M103 336 L150 336 L149 356 L91 356 Q85 346 103 336Z" fill="#313644"/>
+      <path d="M180 335 L226 335 L238 354 L176 356Z" fill="#313644"/>
+      <path d="M80 163 Q98 134 128 136 L188 136 Q220 139 235 173 L261 264 Q250 288 219 275 L204 243 L218 283 Q159 302 91 275 L107 238 L89 274 Q62 279 53 255Z" fill="url(#coat)" stroke="#773318" stroke-width="5"/>
+      <path d="M114 145 L151 179 L191 144 L187 266 Q150 281 112 264Z" fill="#222b38" stroke="#0d1727" stroke-width="4"/>
+      <path d="M152 180L152 267" stroke="#ff8a2b" stroke-width="4"/>
+      <path d="M111 156 L77 228 L91 259 L112 235" fill="#ff9c40" stroke="#803d1c" stroke-width="5"/>
+      <path d="M198 155 L238 225 L222 266 L199 239" fill="#c6511b" stroke="#70301c" stroke-width="5"/>
+      <path d="M95 228 L70 226 Q44 215 43 191 L34 156 Q30 141 42 134 Q56 125 64 145 L72 174 L111 193Z" fill="#dc742e" stroke="#773c22" stroke-width="4"/>
+      <path d="M35 158 L25 134 Q24 122 35 122 L49 141 L49 113 Q52 102 61 112 L64 143 L76 134 Q91 131 84 146 L64 169Z" fill="#f1b37e" stroke="#8d593f" stroke-width="4"/>
+      <path d="M127 120 L130 154 L180 154 L183 115Z" fill="#d99463" stroke="#a46840" stroke-width="3"/>
+      <path d="M103 67 Q100 29 146 17 Q206 22 215 81 L210 113 Q195 139 163 143 Q126 141 110 120Z" fill="#efb486" stroke="#95654e" stroke-width="4"/>
+      <path d="M98 82 Q88 50 109 26 L122 35 L136 8 L153 24 L178 6 L183 26 L212 18 L205 48 L225 47 L208 75 Q186 59 178 52 Q153 76 113 73 L110 96Z" fill="#1b1d29" stroke="#0a111d" stroke-width="5"/>
+      <path d="M114 70 Q140 64 151 49 Q173 68 210 63" fill="none" stroke="#2d3040" stroke-width="6"/>
+      <path d="M126 94 L146 92 M177 93 L196 95" stroke="#302d30" stroke-width="6" stroke-linecap="round"/>
+      <ellipse cx="139" cy="100" rx="5" ry="8" fill="#202732"/>
+      <ellipse cx="186" cy="100" rx="5" ry="8" fill="#202732"/>
+      <path d="M159 102 Q154 114 164 116" fill="none" stroke="#b77d56" stroke-width="3"/>
+      <path d="M149 125 Q163 135 179 122" fill="none" stroke="#743e3b" stroke-width="3" stroke-linecap="round"/>
+      <path d="M109 88 Q99 78 91 90 Q94 109 108 109" fill="#e6a777" stroke="#9b674b" stroke-width="3"/>
+      <path d="M212 88 Q223 79 229 92 Q228 109 209 111" fill="#e6a777" stroke="#9b674b" stroke-width="3"/>
+      <path d="M111 167 L133 185 L123 202 M197 167L178 187L190 202" stroke="#ffc374" fill="none" stroke-width="5"/>
+      <path d="M203 211 L233 214" stroke="#39c5ff" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="229" cy="214" r="5" fill="#39c5ff"/>
+      <path d="M94 265 Q154 287 214 264" fill="none" stroke="#4c2419" stroke-width="4" opacity=".7"/>
+    </g></g><text x="1128" y="396" fill="#ff8a2b" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800" text-anchor="end" opacity="0.9" letter-spacing="1.1">BUILD WHAT&#x27;S NEXT.</text></svg>
