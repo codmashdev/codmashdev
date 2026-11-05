@@ -58,7 +58,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
   <g transform="translate(1082,72)">
     <rect x="0" y="-19" width="158" height="28" rx="14" fill="#2fd48a" fill-opacity=".09" stroke="#2fd48a" stroke-opacity=".38"/>
     <circle cx="16" cy="-5" r="4" fill="#2fd48a"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
-    <text class="jbb" x="28" y="-1" font-size="9.6" fill="#2fd48a" letter-spacing="1.1">SYNC 2026-11-04</text>
+    <text class="jbb" x="28" y="-1" font-size="9.6" fill="#2fd48a" letter-spacing="1.1">SYNC 2026-11-05</text>
   </g>
 </g>
 <g class="tile" style="animation-delay:0.7s"><rect x="420.0" y="134" width="194" height="94" rx="15" fill="#ffffff" fill-opacity=".03" stroke="#272e42"/><rect x="438.0" y="148" width="25" height="3" rx="1.5" fill="#ff7a1a" fill-opacity="1" stroke="none"/><text class="sg" x="438.0" y="196" font-size="33" fill="#eef1f7" >4</text><text class="jb" x="438.0" y="215" font-size="9.8" fill="#8b93a7" letter-spacing="1.5">PUBLIC REPOS</text></g>
@@ -71,14 +71,14 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
 <text class="sgm" x="464" y="318" font-size="13" fill="#eef1f7" >codmash-CRM</text>
 <text class="jb" x="850" y="318" font-size="10.5" fill="#4aa8ff" text-anchor="end">PHP</text>
 <circle cx="448" cy="355" r="4" fill="#ff7a1a"/>
-<text class="sgm" x="464" y="359" font-size="13" fill="#eef1f7" >invoice-mgt</text>
-<text class="jb" x="850" y="359" font-size="10.5" fill="#4aa8ff" text-anchor="end">Other</text>
+<text class="sgm" x="464" y="359" font-size="13" fill="#eef1f7" >codmashdev</text>
+<text class="jb" x="850" y="359" font-size="10.5" fill="#4aa8ff" text-anchor="end">Python</text>
 <circle cx="448" cy="396" r="4" fill="#ff7a1a"/>
-<text class="sgm" x="464" y="400" font-size="13" fill="#eef1f7" >office-boy-bell</text>
-<text class="jb" x="850" y="400" font-size="10.5" fill="#4aa8ff" text-anchor="end">Java</text>
+<text class="sgm" x="464" y="400" font-size="13" fill="#eef1f7" >invoice-mgt</text>
+<text class="jb" x="850" y="400" font-size="10.5" fill="#4aa8ff" text-anchor="end">Other</text>
 <circle cx="448" cy="437" r="4" fill="#ff7a1a"/>
-<text class="sgm" x="464" y="441" font-size="13" fill="#eef1f7" >profile</text>
-<text class="jb" x="850" y="441" font-size="10.5" fill="#4aa8ff" text-anchor="end">Python</text>
+<text class="sgm" x="464" y="441" font-size="13" fill="#eef1f7" >office-boy-bell</text>
+<text class="jb" x="850" y="441" font-size="10.5" fill="#4aa8ff" text-anchor="end">Java</text>
 <text class="sgm" x="442" y="513" font-size="13" fill="#ff7a1a" >33 contributions in the last year</text>
 <text class="jb" x="442" y="535" font-size="10.5" fill="#8b93a7" >github.com/codmashdev</text></g>
 <g class="tile" style="animation-delay:1.3s"><rect x="896" y="276" width="322" height="230" rx="15" fill="#ffffff" fill-opacity=".03" stroke="#272e42"/>
