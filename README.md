@@ -1,4 +1,4 @@
-<!-- CODMASH // Animated GitHub Studio Profile -->
+<!-- CODMASH // Animated GitHub Studio Profiles-->
 <!-- Display assets are GIFs. Editable SVG sources remain under templates/ and assets/. -->
 
 <div align="center">
