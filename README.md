@@ -1,72 +1,126 @@
+<!-- CODMASH // Animated GitHub Studio Profile -->
+<!-- Display assets are GIFs. Editable SVG sources remain under templates/ and assets/. -->
+
 <div align="center">
 
-<a href="https://codmash.com/"><img src="./assets/hero.svg" alt="Hi, we're Codmash — web and mobile development, custom software, eCommerce, UI/UX and AI automation" width="100%" /></a>
+<a href="https://codmash.com/" title="Explore CodMash"><img src="./assets/hero.gif" alt="Animated CodMash studio hero with a male anime developer, programming terminal, web development, software, eCommerce and AI automation" width="100%" /></a>
+
+<p><strong>We turn ambitious ideas into remarkable digital products.</strong></p>
+<p>Thoughtful design. Powerful engineering. Automation that gives people their time back.</p>
+
+<a href="https://codmash.com/"><img src="./assets/badge-website.gif" alt="CodMash website" /></a>
+<a href="https://codmash.com/work/"><img src="./assets/badge-portfolio.gif" alt="CodMash selected work" /></a>
+<a href="mailto:support@codmash.com"><img src="./assets/badge-email.gif" alt="Email CodMash" /></a>
 
 <br/><br/>
 
-<img src="./assets/team7-dance.gif" alt="Team 7 chibi dance" width="260" />
+<img src="./assets/team7-dance.gif" width="225" alt="Playful anime ninja team dance" />
 
-<br/>
-
-<a href="https://codmash.com/services/"><img src="./assets/mission.svg" alt="Our ninja way — interfaces that feel alive, software with a purpose, and automation that gives time back" width="100%" /></a>
-
-<br/><br/>
-
-<img src="./assets/stack.svg" alt="Our tech arsenal: HTML, CSS, JavaScript, TypeScript, React, Next.js, PHP, Laravel, Python, WordPress, Shopify, Joomla, WooCommerce, Figma and Git" width="100%" />
-
-<br/><br/>
-
-<a href="https://github.com/codmashdev"><img src="./assets/identity.svg" alt="Codmash studio ID and public GitHub dashboard — repositories, stars, forks, followers and contribution activity" width="100%" /></a>
-
-<br/><br/>
+<p><sub>DESIGN WITH PURPOSE &nbsp; / &nbsp; ENGINEER WITH CARE &nbsp; / &nbsp; SHIP WITH CONFIDENCE</sub></p>
 
 </div>
 
-## 🍥 S-Rank Missions
+---
 
-<table>
-<tr><th>Mission</th><th>What we built</th><th>Our expertise</th><th align="center">Focus</th></tr>
-<tr><td><a href="https://codmash.com/work/recoup-shopify-website-redesign-cro/"><b>Recoup</b></a></td><td>Shopify redesign with a conversion-focused shopping experience.</td><td><code>Shopify</code> <code>UI/UX</code></td><td align="center">🛒</td></tr>
-<tr><td><a href="https://codmash.com/work/go-factory-finish/"><b>Go Factory Finish</b></a></td><td>Responsive web experience with performance-focused design.</td><td><code>Web</code> <code>UI/UX</code></td><td align="center">⚡</td></tr>
-<tr><td><a href="https://codmash.com/work/the-certified-lover-girls/"><b>The Certified Lover Girls</b></a></td><td>Shopify eCommerce experience with a distinct brand identity.</td><td><code>Shopify</code> <code>Design</code></td><td align="center">🎨</td></tr>
-<tr><td><a href="https://codmash.com/work/vibehuman/"><b>VibeHuman</b></a></td><td>User-focused online store and shopping experience.</td><td><code>Shopify</code> <code>eCommerce</code></td><td align="center">🛍️</td></tr>
-<tr><td><a href="https://codmash.com/work/petme2/"><b>Petme2</b></a></td><td>Modern online store with a thoughtful shopping journey.</td><td><code>Shopify</code> <code>Web</code></td><td align="center">🌐</td></tr>
-</table>
+## 01 / Believe In The Build
+
+<a href="https://codmash.com/services/" title="Explore CodMash Services"><img src="./assets/mission.gif" width="100%" alt="Animated CodMash ninja philosophy panel with male developer team and studio values" /></a>
+
+Great software is more than working code. It should feel effortless, solve a real problem, and make its users' lives better. That belief shapes every CodMash project.
+
+| &nbsp; | Our Philosophy | What It Means |
+|:---:|---|---|
+| 🎨 | **Design For Humans** | Clear journeys, thoughtful interactions, and interfaces people enjoy using. |
+| ⚙️ | **Build For The Real World** | Reliable applications, responsive experiences, and maintainable architecture. |
+| ⚡ | **Automate What Slows You Down** | Useful AI and workflows that reduce repetitive work and unlock more capacity. |
+
+<div align="center">
+<a href="https://codmash.com/services/"><strong>Explore What We Build →</strong></a>
+</div>
+
+<br/>
+
+## 02 / Our Tech Arsenal
+
+<img src="./assets/stack.gif" width="100%" alt="Animated CodMash technology arsenal for front-end, back-end, eCommerce, design, and AI automation" />
+
+<p align="center">Different challenges need different tools. We choose the stack that serves the product.</p>
+
+| Discipline | Technologies & Platforms |
+|---|---|
+| **Front-End & UI** | `HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` |
+| **Back-End & Automation** | `PHP` `Laravel` `Python` `APIs` |
+| **CMS & eCommerce** | `WordPress` `WooCommerce` `Shopify` `Joomla` |
+| **Design & Delivery** | `Figma` `Git` `UX/UI` |
+
+<br/>
+
+## 03 / Studio Identity
+
+<a href="https://github.com/codmashdev" title="CodMash GitHub"><img src="./assets/identity.gif" width="100%" alt="Animated CodMash developer identification card and public GitHub dashboard with repositories, stars, forks and followers" /></a>
+
+<div align="center">
+<p><strong>Ideas in motion. Progress you can see.</strong></p>
+<p>Our dashboard uses a checked public GitHub snapshot and refreshes through the profile workflow.</p>
+<a href="https://github.com/codmashdev"><img src="./assets/badge-github.gif" alt="GitHub @codmashdev" /></a>
+</div>
+
+<br/>
+
+## 04 / S-Rank Missions
+
+<p align="center"><em>Selected work from the CodMash portfolio. Different brands, different challenges, one commitment to thoughtful execution.</em></p>
+
+| Mission | What We Built | Expertise |
+|---|---|---|
+| **[Recoup](https://codmash.com/work/recoup-shopify-website-redesign-cro/)** | Shopify redesign focused on a more confident, conversion-friendly shopping experience. | `Shopify` `CRO` `UI/UX` |
+| **[Go Factory Finish](https://codmash.com/work/go-factory-finish/)** | Responsive website with a performance-conscious visual experience. | `Web` `UI/UX` |
+| **[The Certified Lover Girls](https://codmash.com/work/the-certified-lover-girls/)** | Brand-forward eCommerce experience with a distinctive aesthetic. | `Shopify` `Design` |
+| **[VibeHuman](https://codmash.com/work/vibehuman/)** | People-centered online shopping interface and journey. | `eCommerce` `Shopify` |
+| **[Petme2](https://codmash.com/work/petme2/)** | Modern online store with a thoughtful customer experience. | `Web` `Shopify` |
+
+<div align="center">
+<p><a href="https://codmash.com/work/"><strong>VIEW THE FULL PORTFOLIO ↗</strong></a></p>
+<img src="./assets/rasengan-run.gif" width="150" alt="Running anime ninja with a glowing energy effect" />
+</div>
+
+<br/>
+
+## 05 / Our Contribution City
+
+<p align="center"><strong>Every commit builds something. Every day moves us forward.</strong></p>
+
+<a href="https://github.com/codmashdev"><img src="./assets/contribution.gif" width="100%" alt="Animated CodMash contribution city where each building represents a real GitHub activity date and taller towers reflect more contributions" /></a>
+
+<p align="center"><sub>REAL ACTIVITY &nbsp; · &nbsp; REAL PROGRESS &nbsp; · &nbsp; BUILT ONE COMMIT AT A TIME</sub></p>
+
+<br/>
+
+## 06 / Let's Build Something Legendary
+
+<a href="mailto:support@codmash.com" title="Email CodMash"><img src="./assets/contact.gif" width="100%" alt="Animated CodMash contact panel featuring male developer character, company website, support email, GitHub, and LinkedIn" /></a>
 
 <div align="center">
 
-<a href="https://codmash.com/work/"><b>→ Explore our portfolio</b></a>
+<p><strong>Have a product idea, a redesign, or a repetitive process worth automating?</strong></p>
+<p>Tell us what you're building. We'd love to help make it real.</p>
+
+<a href="https://codmash.com/"><img src="./assets/badge-website.gif" alt="Visit codmash.com" /></a>
+<a href="https://codmash.com/work/"><img src="./assets/badge-portfolio.gif" alt="See CodMash work" /></a>
+<a href="mailto:support@codmash.com"><img src="./assets/badge-email.gif" alt="Contact CodMash by email" /></a>
+<a href="https://github.com/codmashdev"><img src="./assets/badge-github.gif" alt="CodMash on GitHub" /></a>
+<a href="https://www.linkedin.com/company/codmashian/"><img src="./assets/badge-linkedin.gif" alt="CodMash on LinkedIn" /></a>
 
 <br/><br/>
 
-<img src="./assets/rasengan-run.gif" alt="Naruto running with a rasengan" width="150" />
-
-<h3>🌃 Our contribution village</h3>
-
-<p><em>Every commit builds something. Every day moves us forward.</em></p>
-
-<a href="https://github.com/codmashdev"><img src="./assets/contribution.svg" alt="Codmash contribution village — each building represents one real day of public GitHub activity" width="100%" /></a>
-
-<br/><br/>
-
-<img src="./assets/contact.svg" alt="Let's build something legendary — codmash.com, support@codmash.com, GitHub @codmashdev and LinkedIn codmashian" width="100%" />
+<img src="./assets/badge-codmash.gif" alt="Welcome to CodMash" />
 
 <br/>
 
-<a href="https://codmash.com/"><img src="./assets/badge-website.svg" alt="Visit the Codmash website" /></a>
-<a href="https://codmash.com/work/"><img src="./assets/badge-portfolio.svg" alt="Explore the Codmash portfolio" /></a>
-<a href="mailto:support@codmash.com"><img src="./assets/badge-email.svg" alt="Email Codmash" /></a>
-<a href="https://github.com/codmashdev"><img src="./assets/badge-github.svg" alt="Codmash on GitHub" /></a>
-<a href="https://www.linkedin.com/company/codmashian/"><img src="./assets/badge-linkedin.svg" alt="Codmash on LinkedIn" /></a>
+<img src="./assets/chibi-walk.gif" width="92" alt="Small anime ninja walking" />
 
-<br/><br/>
-
-<img src="./assets/badge-codmash.svg" alt="Welcome to Codmash" />
-
-<br/>
-
-<img src="./assets/chibi-walk.gif" alt="Chibi Naruto walking" width="90" />
-
-<p><b>Build boldly. Ship thoughtfully. Keep growing.</b> 🍥</p>
+<h3>Build boldly. Ship thoughtfully. Keep growing.</h3>
+<p><sub>© CODMASH &nbsp; · &nbsp; BELIEVE IN THE BUILD</sub></p>
+<p><sub><a href="./docs/PROFILE.md">How This Profile Works</a> &nbsp; · &nbsp; <a href="./docs/CREDITS.md">Artwork &amp; Credits</a></sub></p>
 
 </div>

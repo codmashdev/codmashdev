@@ -1,30 +1,63 @@
-# Codmash profile maintenance
+# CodMash animated GitHub profile — maintenance guide
 
-The README follows the supplied anime profile reference: hero, Team 7 dance, ninja philosophy, torch-lit technology grid, swinging studio ID, portfolio, contribution village, contact panel and walking sign-off. The male Codmash lead uses original generated artwork.
+This profile is a seven-section CodMash studio experience: animated hero, philosophy, tech arsenal, studio identity, selected projects, contribution city, and contact. It uses the original **male CodMash ninja** and dark navy / orange design language.
 
-All fonts, artwork, badges and GIFs are local. Each panel embeds its own fonts and raster artwork so GitHub can render it as an `<img>` without JavaScript, iframe support, external CSS, or an image-generation service. SVG CSS/SMIL supplies the entrance effects, role cycling, glowing chips, particles, card sway and contact highlights. The hero character gently floats; it is an animated illustration, not a frame-by-frame character video. The three chibi GIFs provide character animation.
+## Asset pipeline
 
-## Rebuild
+- `templates/*.svg` are editable design templates for the five main panels.
+- `build_assets.py` creates the six complete panel SVGs (including the data-driven contribution city) and six badge SVGs in `assets/`.
+- `render_gifs.py` converts **all 12 generated SVG display assets** into GIFs: `hero.gif`, `mission.gif`, `stack.gif`, `identity.gif`, `contribution.gif`, `contact.gif`, and all six `badge-*.gif` files.
+- `README.md` references GIFs only for the CodMash design panels and badges; the five source SVG templates remain editable and are never linked directly.
+- `team7-dance.gif`, `rasengan-run.gif`, and `chibi-walk.gif` are existing reference animations retained unchanged.
+- Original PNG/WebP character artwork, fonts, project links, and public data are preserved.
+
+When Chromium is available, the GIF renderer captures time-indexed frames of each SVG's original CSS/SMIL animation. Where the browser cannot launch (for example, in some restricted sandboxes), it falls back to CairoSVG and adds a subtle animated light sweep, progress signal, and particles. Both produce real multi-frame looping GIFs. The default mode automatically chooses.
+
+## Rebuild locally
+
+Install dependencies (Python 3.12 recommended):
 
 ```sh
-python3 build_assets.py
-python3 build_assets.py --refresh
-python3 build_assets.py --preview
+python3 -m pip install -r requirements-gif.txt
+python3 -m playwright install chromium
+```
+
+Then:
+
+```sh
+python3 build_assets.py              # Rebuild SVG sources and all 12 GIFs
+python3 build_assets.py --svg-only   # Rebuild source art without exporting GIFs
+python3 build_assets.py --refresh    # Fetch latest public GitHub data, then rebuild
+python3 build_assets.py --preview    # Generate .preview/index.html
+python3 render_gifs.py --only hero   # Regenerate only the hero
+python3 render_gifs.py --renderer cairo  # Force browser-free animation fallback
 python3 -m http.server 8768 --bind 127.0.0.1
 ```
 
-Open `http://127.0.0.1:8768/.preview/index.html` for the local README preview. Edit `templates/*.svg` for layout/copy and `build_assets.py` for data cards or the contribution city, then rebuild. Generated `assets/*.svg` are the files GitHub displays.
+Open `http://127.0.0.1:8768/.preview/index.html` for a quick local preview (the GitHub renderer remains the final authority for layout).
 
-`data/github.json` is a checked-in snapshot of public `codmashdev` data. Counts are real; the city includes one block per calendar day and only raises buildings for days with contributions. A failed or incomplete fetch aborts before replacing the snapshot. The GitHub Actions workflow refreshes daily at 01:30 UTC (07:00 India time), on relevant pushes, or through **Run workflow** once these files are pushed and Actions is enabled. It uses the repository's built-in token and Python's standard library.
+The source SVGs remain available for detailed editing. Rebuilding updates their exported GIF counterparts, which keeps the README visible and animated even when GitHub strips embedded SVG CSS.
 
-The repository is currently named `codmashdev/profile`. Its README displays on that repository. For GitHub's personal profile overview, the special public repository must be named `codmashdev/codmashdev`; copy these files there if that is the intended destination. Publishing this README does not rename the repository.
+## Automatic updates
 
-The contact cards inside an SVG image are visual; the HTML image links and five badges beneath the contact panel are the actual clickable targets. Core profile content has descriptive alt text. SVG CSS respects reduced-motion preferences; GIFs and some SMIL effects still animate.
+The GitHub Actions workflow in `.github/workflows/refresh-profile.yml` runs daily at **01:30 UTC** (07:00 India Standard Time), when manually triggered, or on relevant pushes. It installs GIF dependencies, updates `data/github.json`, rebuilds the SVG/GIF assets, and commits the changed data and generated files.
 
-## Artwork prompts
+The data fetch checks public repositories and the complete GitHub contribution calendar. It refuses to overwrite the current snapshot when the API response is incomplete or invalid. The contribution city faithfully represents public calendar activity: one tower per day, with taller towers on more active days.
 
-Generated with the built-in imagegen tool, then copied into this repository. The WebP exports are used by the panels; the PNG files preserve the original generation results.
+## GitHub profile location
 
-- `assets/codmash-ninja.png`: Adult male anime ninja developer, spiky black hair, warm brown skin, amber eyes, code-bracket forehead protector, orange/charcoal techwear; peace sign beside his face, seated behind a code-branded laptop; crisp professional cel shading, orange and blue rim light, transparent background.
-- `assets/codmash-squad.png`: The Codmash male lead and Naruto standing back to back, arms crossed and thumbs-up poses, head-to-mid-thigh framing, matching orange/charcoal anime illustration, transparent background.
-- `assets/codmash-torch.png`: The Codmash male lead faces right, extending a flashlight at chest level, other hand in pocket; detailed cel shading, orange and blue rim light, transparent background; SVG adds the light beam.
+This repository may be named `codmashdev/profile`; its README displays in that repository. GitHub renders a README on the user's **profile overview** only from the public special repository named `codmashdev/codmashdev`. To make this the personal profile page, place these contents in that special repository.
+
+## Useful details
+
+- Keep image paths relative (for example `./assets/hero.gif`) so they work on GitHub.
+- The contact-panel artwork is an image, not a clickable form. The badges and linked panels supply the actual click targets.
+- All GIFs loop; users with reduced-motion preferences cannot automatically pause them through GitHub README markup.
+- GIF export sizes and frame counts can be tuned in `render_gifs.py` for lower bandwidth.
+- Font licenses and source/artwork attribution are in `docs/CREDITS.md`.
+
+## Artwork
+
+- `codmash-ninja.png/.webp`: male anime ninja developer with code-bracket forehead protector, orange/charcoal techwear and laptop.
+- `codmash-squad.png/.webp`: male CodMash developer and ninja teammate.
+- `codmash-torch.png/.webp`: male character with flashlight effect for the stack.

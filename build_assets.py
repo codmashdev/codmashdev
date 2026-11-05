@@ -1,8 +1,9 @@
-"""Build the self-contained Codmash README images (Python standard library only).
+"""Build the self-contained Codmash README art and animated GIF exports.
 
-python3 build_assets.py             # Rebuild from the checked-in public snapshot
+python3 build_assets.py             # Rebuild source SVGs and all animated GIFs
 python3 build_assets.py --refresh   # Refresh public GitHub data, then rebuild
 python3 build_assets.py --preview   # Also create .preview/index.html
+python3 build_assets.py --svg-only  # Edit SVG source without exporting GIFs
 """
 from __future__ import annotations
 
@@ -247,7 +248,26 @@ text{{font-family:JBM,monospace}}.sg{{font-family:SG,Arial,sans-serif;font-weigh
 
 
 def badge(label, color, width):
-    return f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="32" viewBox="0 0 {width} 32" role="img" aria-label="{escape(label)}"><rect width="{width}" height="32" rx="5" fill="{color}"/><text x="{width/2}" y="21" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">{escape(label)}</text></svg>'
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="32"
+viewBox="0 0 {width} 32" role="img" aria-label="{escape(label)}">
+<defs>
+  <linearGradient id="badgeShine"><stop stop-color="#fff" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#fff" stop-opacity=".5"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="badgeClip"><rect width="{width}" height="32" rx="5"/></clipPath>
+</defs>
+<rect width="{width}" height="32" rx="5" fill="{color}"/>
+<g clip-path="url(#badgeClip)">
+  <rect x="-80" y="-10" width="56" height="52" transform="skewX(-18)"
+    fill="url(#badgeShine)">
+    <animate attributeName="x" values="-80;{width + 90}" dur="2.8s"
+      repeatCount="indefinite"/>
+  </rect>
+  <path d="M8 2H{width - 8}" stroke="#fff" opacity=".13" stroke-linecap="round"/>
+</g>
+<text x="{width/2}" y="21" font-family="Arial,Helvetica,sans-serif" font-size="11"
+ font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="1">{escape(label)}</text>
+</svg>'''
 
 
 def validate(name, svg):
@@ -301,9 +321,13 @@ if __name__ == '__main__':
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--refresh',action='store_true')
     parser.add_argument('--preview',action='store_true')
+    parser.add_argument('--svg-only',action='store_true',help='Skip animated GIF export')
     args=parser.parse_args()
     if args.refresh:
         refresh()
     build()
+    if not args.svg_only:
+        from render_gifs import render_all
+        render_all()
     if args.preview:
         preview()
